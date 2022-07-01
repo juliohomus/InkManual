@@ -18,7 +18,7 @@
   * [Conector](ferramentas/conector.md)
   * [Medidor](ferramentas/medidor.md)
   * [Zoom](ferramentas/zoom.md)
-  * [Páginas](ferramentas/paginas.md)
+  * [💛 Páginas](ferramentas/paginas.md)
 * [Trabalho com Texto](trabalho-com-texto/README.md)
   * [Ferramenta de Texto](trabalho-com-texto/ferramenta-de-texto.md)
   * [Extensões para Texto](trabalho-com-texto/extensoes-para-texto.md)

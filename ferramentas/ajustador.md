@@ -5,7 +5,7 @@ Atalho: \[ W ]
 {% endhint %}
 
 {% hint style="warning" %}
-Como o inkscape ainda não tem um modo de aceleração por GPU, entre outras limitações técnicas, o uso dessa ferramenta poderá ser limitado.
+Como o inkscape ainda não tem aceleração por GPU, entre outras limitações técnicas, o uso desta ferramenta poderá ser limitado.
 {% endhint %}
 
 A ferramenta ajustador permite aplicar interativamente várias formas de distorções para os objetos. Note que a ferramenta apenas modifica os objetos previamente selecionados.
@@ -38,7 +38,7 @@ O modo ![](<../.gitbook/assets/image (10).png>) permite rotacionar os objetos. P
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-34.gif>)
 
-O modo ![](<../.gitbook/assets/image (31).png>) permite duplicar objetos e excluí-los, apertando shift. A cópia é feita em cima do próprio objeto original, então não é possível "vê-la". Para ilustrar, vamos ver apenas a exclusão:
+O modo ![](<../.gitbook/assets/image (31).png>) permite duplicar objetos e excluí-los, apertando shift. A cópia é feita em cima do próprio objeto original.Para ilustrar, vamos ver apenas a exclusão:
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-38.gif>)
 

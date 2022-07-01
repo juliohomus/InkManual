@@ -1,7 +1,8 @@
-# Páginas
+# 💛 Páginas
 
-\
-
+{% hint style="info" %}
+A ferramenta não tem um atalho definido por padrão, mas você poderá adicionar um nas Configurações Globais.
+{% endhint %}
 
 ![](https://lh5.googleusercontent.com/pptMX\_pgvHp9IKLDskQuBM8m5HY4Cttwp\_dj9kMzFt6FrZVtccZKt8IjTUwaMl7kpyDe0Vla0rU9MU1zVeqMsIW-AYj2Vde1X-X9emm2saosEF9hcV2mWjIKm1tq-t\_AGaWbSnYDb1Lo5kG1aA)
 
