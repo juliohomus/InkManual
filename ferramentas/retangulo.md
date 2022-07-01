@@ -1,4 +1,4 @@
-# Retângulo
+# 🟡 Retângulo
 
 {% hint style="info" %}
 Atalho: \[ R ]

@@ -1,4 +1,4 @@
-# Círculo
+# 🟡 Círculo
 
 {% hint style="info" %}
 Atalho: \[ E ]
@@ -6,16 +6,10 @@ Atalho: \[ E ]
 
 ![](https://lh3.googleusercontent.com/hpDLVXP2VgO4mBdycynMcaNtmYilm6m5Ggst\_xfZ4SuRKMN5xxygb2qoYw5P\_1TLUBN-J4U3dUdTnDjhguBIgtsOH\_dkyohKwp-GCrSCr2ruu-LalL9Qt1Z9aP9fU\_3qGIB6uNtJsKv\_iyEJVA)
 
-Os dois primeiros campos definem as dimensões do objeto, seguido do modificador de unidade de medida. Os dois campos seguintes permitem modificar a abertura do arco, seguido dos modificadores de círculo, arco e corda e um último botar capaz de redefinir para a forma de círculo completo.
-
-\
+Os dois primeiros campos definem as dimensões do objeto, seguido do modificador de unidade de medida. Os dois campos seguintes permitem modificar a abertura do arco, seguido dos modificadores de círculo, arco e corda e um último botar capaz de redefinir para a forma de círculo completo.\
 
 
 Ao se criar um arco no modificador de círculo, cada ponta traçará um caminho até o centro. No modificador de arco, as pontas não mais se encontram enquanto na corda as pontas se encontram diretamente.
-
-\
-\
-
 
 ![](https://lh6.googleusercontent.com/2fhTIM9XuGZUWsbrW\_B834SIOms8FJXFT0bMu0il3uus\_66dN3l-ZriELh74pGIy2HKZCnes\_mpw-sDcN\_4lTdBB1dH8F6hRzpfJ1K5vAdjXLYOsAJjyTLuau5Y9wfSSCNAXpPqCCJESBSbjxw)
 

@@ -1,10 +1,8 @@
-# Conector
+# 🟡 Conector
 
 {% hint style="info" %}
 Atalho: \[ O ]
 {% endhint %}
-
-
 
 A ferramenta Conector é usada para criar conexões no estilo de diagrama entre objetos com o benefício de que essas conexões irão acompanhar os objetos se eles forem movidos. A ferramenta é bastante limitada e confusa do ponto de vista da UI/UX, e até mesmo a documentação sobre ela é escassa. Contudo, ela poderá atender as necessidades mais básicas de diagramação. \
 

@@ -1,4 +1,4 @@
-# Polígono
+# 🟡 Polígono
 
 {% hint style="info" %}
 Atalho: \[ \* ]&#x20;

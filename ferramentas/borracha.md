@@ -1,4 +1,4 @@
-# Borracha
+# 🟡 Borracha
 
 {% hint style="info" %}
 Atalho: \[ Shit ] + \[ E ]
@@ -6,7 +6,7 @@ Atalho: \[ Shit ] + \[ E ]
 
 
 
-![](<../.gitbook/assets/image (52).png>)
+![](<../.gitbook/assets/image (52) (1).png>)
 
 A ferramenta Borracha permite apagar desenhos de diversas formas. Note pode delimintar a ferramenta selecionando os objetos que deseja afetar ou deixar sem seleção para que ela afeta todos os objetos por que passar. O primeiro modificador da barra de controle determina que todos objetos perpassados pela linha criada pela ferramenta serão excluídos.
 
@@ -32,7 +32,7 @@ Vamos aos próximos campos da barra de controle. _Largura_ altera o tamanho da b
 
 ![](<../.gitbook/assets/Peek 22-06-2022 14-25.gif>)
 
-O último botão ![](<../.gitbook/assets/image (6).png>) faz com que a borracha divida o objeto afetado em novos objetos.
+O último botão ![](<../.gitbook/assets/image (6) (1).png>) faz com que a borracha divida o objeto afetado em novos objetos.
 
 ![](<../.gitbook/assets/Peek 22-06-2022 14-23.gif>)
 

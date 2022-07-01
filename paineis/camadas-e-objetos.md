@@ -1,14 +1,14 @@
-# Camadas  e Objetos
+# 🟡 Camadas  e Objetos
 
 A partir do Inkscape 1.2 o painel de camada foi reformulado e agregou o painel de objetos.&#x20;
 
-![](<../.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (45) (1).png>)
 
 Esse painel permite ver todos os elementos do seu arquivo de forma condensada e organizada. Vamos para uma breve descrição dos botões do topo do painel.
 
 ![](<../.gitbook/assets/image (5).png>)
 
-O primeiro botão ![](<../.gitbook/assets/image (42).png>) permite mudar a visualização do painel só para camadas ou para todos os elementos. O botão _adicionar camada_ ![](<../.gitbook/assets/image (7).png>) faz literalmente isso, com o auxílio da janela a seguir:
+O primeiro botão ![](<../.gitbook/assets/image (42) (1).png>) permite mudar a visualização do painel só para camadas ou para todos os elementos. O botão _adicionar camada_ ![](<../.gitbook/assets/image (7).png>) faz literalmente isso, com o auxílio da janela a seguir:
 
 ![](<../.gitbook/assets/Captura de tela de 2022-06-22 18-41-43.png>)
 
@@ -27,6 +27,12 @@ Objectos só podem ser agrupados sob a mesma camada. Se eles estiverem espalhado
 Ao passar o mouse sobre os elementos da árvore do painel, aparecerão três ícones: o primeiro, com formato de um olho, permite exibir ou ocultar aquele elemento, o ícone de cadeado permite bloquear o elemento, o que faz com que ele não possa ser selecionado. Por fim, a cor de destaque indica a cor da camada e permite modificá-la.
 
 ![](<../.gitbook/assets/image (38).png>)
+
+### Visível e Bloqueado
+
+Visível e bloqueado são funções básicas da experiência de trabalho com o Inkscape. Eles podem ser desativados e ativados para objetos e grupos individuais e para camadas inteiras. Por padrão, todos objetos são criados como visíveis e desbloqueados. Ao tornar um objeto invisível, ele não pode ser selecionado além de não aparecer tanto do ponto de visto do usuário quanto das próprias operações do programa, como alinhamento, por exemplo, de certa forma é como se o objeto não existisse. Enquanto que bloquear um objeto apenas faz com que ele não seja selecionável. Isso é particularmente útil, por exemplo, nos casos em que você não quer que um objeto interfira na seleção de outros objetos em que ele está sobreposto.
+
+![](<../.gitbook/assets/Peek 01-07-2022 13-04.gif>)
 
 Também é possível acessar o menu de contexto para cada elemento da árvore. O menu de contexto para objetos e grupos é exatamente o mesmo disponível ao se clicar com o botão direito do mouse sobre no canvas, por isso vamos apenas mostrar aqui o menu de contexto para camada, já que ele aparece exclusivamente aqui.&#x20;
 

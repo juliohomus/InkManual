@@ -1,4 +1,4 @@
-# Gradiente
+# 🟡 Gradiente
 
 {% hint style="info" %}
 Atalho: \[ G ]

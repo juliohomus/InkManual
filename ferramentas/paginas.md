@@ -1,4 +1,4 @@
-# 💛 Páginas
+# 🟡 Páginas
 
 {% hint style="info" %}
 A ferramenta não tem um atalho definido por padrão, mas você poderá adicionar um nas Configurações Globais.

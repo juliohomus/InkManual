@@ -1,4 +1,4 @@
-# Ajustador
+# 🟡 Ajustador
 
 {% hint style="info" %}
 Atalho: \[ W ]
@@ -18,7 +18,7 @@ Os primeiros modificadores da barra de controle dessa ferramenta permite modific
 
 Chegamos então aos modos de ajuste. Alguns deles são específicos para um grupo de vários objetos, geralmente pequenos, outros atuam melhor sobre objetos (bem) maiores. Para exemplificá-lo criamos um ladrilho de 30x30 objetos (cada com cerca de 10x10px). tenha isso em mente ao replicar esses efeitos em outros trabalhos.
 
-O primeiro modo ![](<../.gitbook/assets/image (37).png>) move objetos em qualquer direção.
+O primeiro modo ![](<../.gitbook/assets/image (37) (1).png>) move objetos em qualquer direção.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-24.gif>)
 
@@ -26,7 +26,7 @@ O modo ![](<../.gitbook/assets/image (1).png>) irá atrair os objetos na direç�
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-26.gif>)
 
-O modo ![](<../.gitbook/assets/image (58).png>) move os objetos em direções aleatórias.
+O modo ![](<../.gitbook/assets/image (58) (1).png>) move os objetos em direções aleatórias.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-29.gif>)
 
@@ -44,7 +44,7 @@ O modo ![](<../.gitbook/assets/image (31).png>) permite duplicar objetos e exclu
 
 Vamos pular alguns modos para continuarmos com o exemplo do ladrilho:
 
-O modo ![](<../.gitbook/assets/image (35).png>) permite pintar os objetos de uma cor selecionada.
+O modo ![](<../.gitbook/assets/image (35) (1).png>) permite pintar os objetos de uma cor selecionada.
 
 {% hint style="info" %}
 Lembre de desvincular seus clones, se estiver usando.&#x20;

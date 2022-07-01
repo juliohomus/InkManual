@@ -1,4 +1,4 @@
-# Medidor
+# 🟡 Medidor
 
 {% hint style="info" %}
 Atalho: \[ M ]

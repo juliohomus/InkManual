@@ -1,20 +1,62 @@
-# Seletor
+# 🟡 Seletor
 
 {% hint style="info" %}
 Atalho: \[ F1 ]
 {% endhint %}
 
-### &#x20;<a href="#_uey8xzb5m5uk" id="_uey8xzb5m5uk"></a>
+A ferramenta seletor permite várias operações de seleção e transformação dos objetos. Assim como a ferramenta [Zoom](zoom.md), seus atalhos são importantes para acelerar seu uso do programa. Ao ser ativada, basta clicar em qualquer objeto para selecioná-lo, movê-lo ou usar as alças para transformarão.
+
+![](<../.gitbook/assets/Peek 01-07-2022 13-33.gif>)
 
 ![](../.gitbook/assets/1)
 
+Seguindo a ordem da barra de controle nós temos, ![](<../.gitbook/assets/image (49).png>) **\[Crtl + A]** seleciona todos os objetos apenas na [camada](../paineis/camadas-e-objetos.md) atual. ![](<../.gitbook/assets/image (45).png>) **\[Crtl + Shift + A]** Permite selecionar todos os objetos de todas as camadas [visíveis e não bloqueadas](../paineis/camadas-e-objetos.md#visivel-e-bloqueado). ![](<../.gitbook/assets/image (17).png>)**\[Esc]** irá desfazer a seleção atual. Também é possível inverter a seleção atual com o atalho **\[!].**  Ainda é possível usar o atalho **\[Alt + Click]** para selecionar sucessivamente o objeto abaixo ou **\[Alt + girar a roda do mouse]** para navegar entre os objetos abaixo do ponteiro do mouse.
 
+![](<../.gitbook/assets/Peek 01-07-2022 14-40.gif>)
+
+![](<../.gitbook/assets/image (20).png>) Muda o comportamento da caixa de seleção. Por padrão, apenas os objetos inteiramente dentro da seleção serão ativados, ao alternar este modificador qualquer objeto perpassado pela caixa de seleção será ativado.
+
+![](<../.gitbook/assets/Peek 01-07-2022 13-39.gif>)
+
+Os botões seguintes ![](<../.gitbook/assets/image (36).png>) permitem girar em 90º para a esquerda e direita; inverter verticalmente e horizontalmente.&#x20;
+
+A seguir temos os botões de posição ![](<../.gitbook/assets/image (27).png>). Na ordem, trazer o objeto selecionado para frente de todos os objetos; elevar a oposição do objeto em um nível; reduzir a posição do objeto em um nivel; trazer o objeto para trás.
+
+{% hint style="info" %}
+Note que ao elevar ou reduzir um nível para uma seleção de vários objetos, cada um será reposicionado segundo sua posição anterior. A confiná-los em um grupo, eles então estarão na mesma posição relativa aos outros objetos.
+{% endhint %}
+
+![](<../.gitbook/assets/image (42).png>)
+
+As opções seguintes (imagem acima) permitem alterar a posição do objeto no canvas, determinado pelos campos X e Y. Os campos L e A determinam Largura e altura do objeto. O cadeado no centro permite alterar as dimensões proporcionalmente. A última caixa permite alterar a unidade de medida.
+
+Seguindo, temos o modificador ![](<../.gitbook/assets/image (37).png>) altera como o contorno é redimensionado junto com o objeto. Se desativado, o contorno permanecerá no seu tamanho original.
+
+![](<../.gitbook/assets/Peek 01-07-2022 14-03.gif>)
+
+![](<../.gitbook/assets/image (52).png>) Altera como o raio do [retângulo](retangulo.md) será redimensionado. Se desativado, o retângulo terá um raio fixo.&#x20;
+
+![](<../.gitbook/assets/Peek 01-07-2022 14-04.gif>)
+
+O penúltimo modificador altera a posição dos gradientes relativo à posição do objeto. Se desativado, o gradiante permanecerá onde foi criado. Essa opção pode ser útil em composições em que múltiplos objetos compartilham do mesmo gradiente original.
+
+![](<../.gitbook/assets/Peek 01-07-2022 14-10.gif>)
 
 O modificador para _mover padrões_ ![](../.gitbook/assets/2) irá alternar entre redimensionar preenchimentos para o novo tamanho do objeto ou manter o tamanho do padrão enquanto o distribui no novo tamanho.
 
 ![](../.gitbook/assets/3)
 
-#### Outras funcionalidades da selação <a href="#_fzh6itdyg8ba" id="_fzh6itdyg8ba"></a>
+Vamos agora entrar fundo para as interações da ferramentas diretamente no canvas. Ao clicar sobre um objeto, aparecerão as alças para mudar as suas dimensões, um clique-duplo irá mudar as alçar para girar ou inclinar o objeto.
 
-* Alt + Click selecionar abaixo
-* Alt + roda do mouse selecionar por pilha
+![](<../.gitbook/assets/image (35).png>)![](<../.gitbook/assets/image (58).png>)
+
+As teclas **\[Crtl]** e **\[Shift]** modificam a interação com as alças. No caso das alças de dimensão, pressionar **\[Crtl]** mantêm a proporção do objeto e **\[Shift]** faz com que o objeto permaneça no seu centro. É possível pressionar as duas teclas ao mesmo tempo para um efeito simultâneo. Para as alças de giro e inclinação, **\[Shift]** irá fazer com que o objeto gire ou incline em num eixo oposto ao ponto da alça selecionada. **\[Crtl]** fará com que o objeto gire em incrementos de 15º por padrão.
+
+![](<../.gitbook/assets/Peek 01-07-2022 14-54.gif>)![](<../.gitbook/assets/Peek 01-07-2022 14-59.gif>)
+
+A alça com formato de alvo determina qual é o centro de transformação do objeto.&#x20;
+
+![](<../.gitbook/assets/Peek 01-07-2022 15-04.gif>)
+
+
+

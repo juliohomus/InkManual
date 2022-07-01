@@ -1,4 +1,4 @@
-# Espiral
+# 🟡 Espiral
 
 {% hint style="info" %}
 Atalho: \[ I ]&#x20;
