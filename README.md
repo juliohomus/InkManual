@@ -12,6 +12,6 @@ Em geral, seguiremos a hierarquia da interface do programa. Mas em alguns casos 
 
 
 
-Licença:
+Licença: MIT
 
 Todos os recursos utilizados são de nossa própria autoria ou estão em domínio público.
