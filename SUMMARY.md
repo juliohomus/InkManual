@@ -16,7 +16,7 @@
   * [🟡 Gradiente](ferramentas/gradiente.md)
   * [🔴 Malha](ferramentas/malha.md)
   * [🟡 Conta-gotas](ferramentas/conta-gotas.md)
-  * [🔴 Balde de tinta](ferramentas/balde-de-tinta.md)
+  * [🟡 Balde de tinta](ferramentas/balde-de-tinta.md)
   * [🟡 Ajustador](ferramentas/ajustador.md)
   * [🔴 Pulverizador](ferramentas/pulverizador.md)
   * [🟡 Borracha](ferramentas/borracha.md)

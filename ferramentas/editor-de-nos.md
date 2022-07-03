@@ -40,7 +40,7 @@ O próximo botão ![](<../.gitbook/assets/image (33).png>)permite unificar dois 
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-21.gif>)![](<../.gitbook/assets/Peek 03-07-2022 01-23.gif>)
 
-Os próximos botões ![](<../.gitbook/assets/image (36).png>) mudam como as alças dos nós vão se comportar. Na ordem, o primeiro torna o nós partindo do nó selecionado reto. Se o nó interconectado também estiver definido com esse padrão, não haverá alça de modificação. O segundo torna a alça "suave", criando uma continuidade entre os caminhos dois lados do nó. O terceiro torna os caminhos de ambos os lados simétricos. O último é útil para redefinir a suavidade de um nó rapidamente.
+Os próximos botões ![](<../.gitbook/assets/image (36) (1).png>) mudam como as alças dos nós vão se comportar. Na ordem, o primeiro torna o nós partindo do nó selecionado reto. Se o nó interconectado também estiver definido com esse padrão, não haverá alça de modificação. O segundo torna a alça "suave", criando uma continuidade entre os caminhos dois lados do nó. O terceiro torna os caminhos de ambos os lados simétricos. O último é útil para redefinir a suavidade de um nó rapidamente.
 
 {% hint style="info" %}
 Note que ao criar nós com a [Caneta Bézier](caneta-bezier.md) apenas criando pontos interconectados, eles serão do primeiro padrão, sem alças de curvatura. Já ao criar pontos se ajustando as curvaturas, eles serão no padrão suave.

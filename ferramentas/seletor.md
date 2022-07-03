@@ -18,7 +18,7 @@ Seguindo a ordem da barra de controle nós temos, ![](<../.gitbook/assets/image 
 
 ![](<../.gitbook/assets/Peek 01-07-2022 13-39.gif>)
 
-Os botões seguintes ![](<../.gitbook/assets/image (36) (1).png>) permitem girar em 90º para a esquerda e direita; inverter verticalmente e horizontalmente.&#x20;
+Os botões seguintes ![](<../.gitbook/assets/image (36) (1) (1).png>) permitem girar em 90º para a esquerda e direita; inverter verticalmente e horizontalmente.&#x20;
 
 A seguir temos os botões de posição ![](<../.gitbook/assets/image (27).png>). Na ordem, trazer o objeto selecionado para frente de todos os objetos; elevar a oposição do objeto em um nível; reduzir a posição do objeto em um nivel; trazer o objeto para trás.
 
