@@ -40,13 +40,19 @@ O próximo botão ![](<../.gitbook/assets/image (33).png>)permite unificar dois 
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-21.gif>)![](<../.gitbook/assets/Peek 03-07-2022 01-23.gif>)
 
-Os próximos botões ![](<../.gitbook/assets/image (36).png>) mudam como as alças dos nós vão se comportar. Na ordem, o primeiro torna o nós partindo do nó selecionado reto. Se o nó interconectado também estiver definido com esse padrão, não haverá alça de modificação. O segundo torna a alça "suave", criando uma continuidade entre os caminhos dois lados do nó. O terceiro torna os caminhos de ambos os lados simétricos. O último é útil para redefinir a suavidade de um nó rapidamente. Os botões seguites ![](<../.gitbook/assets/image (17).png>) são apenas uma redundância. Eles fazem exatamente as mesmas funções já mencionadas.
+Os próximos botões ![](<../.gitbook/assets/image (36).png>) mudam como as alças dos nós vão se comportar. Na ordem, o primeiro torna o nós partindo do nó selecionado reto. Se o nó interconectado também estiver definido com esse padrão, não haverá alça de modificação. O segundo torna a alça "suave", criando uma continuidade entre os caminhos dois lados do nó. O terceiro torna os caminhos de ambos os lados simétricos. O último é útil para redefinir a suavidade de um nó rapidamente.
 
 {% hint style="info" %}
 Note que ao criar nós com a [Caneta Bézier](caneta-bezier.md) apenas criando pontos interconectados, eles serão do primeiro padrão, sem alças de curvatura. Já ao criar pontos se ajustando as curvaturas, eles serão no padrão suave.
 {% endhint %}
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-29.gif>)
+
+Os botões seguites ![](<../.gitbook/assets/image (17).png>) permitem converter o segmento entre dois nós em uma linha reta ou em uma curva. A primeira vista, eles podem parecer uma redundância dos botões anteriores. Mas a diferença é que ao eles permitem realizar suas operações sem afetar o caminho anterior.
+
+![](<../.gitbook/assets/Peek 03-07-2022 10-34.gif>)![](<../.gitbook/assets/Peek 03-07-2022 10-36 (1).gif>)
+
+
 
 Os botões ![](<../.gitbook/assets/image (2).png>) permitem converter uma forma (círculos, retângulos, etc.) em caminhos simples, e converter contornos em caminhos. Logo em seguida, é possível ver um campo de posicionamento manual do nó e sua unidade de medida: ![](<../.gitbook/assets/image (21).png>)
 
