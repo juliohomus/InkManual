@@ -1,4 +1,4 @@
-# 🟡 Camadas  e Objetos
+# 🟡 Camadas e Objetos
 
 A partir do Inkscape 1.2 o painel de camada foi reformulado e agregou o painel de objetos.&#x20;
 
@@ -28,7 +28,7 @@ Ao passar o mouse sobre os elementos da árvore do painel, aparecerão três íc
 
 ![](<../.gitbook/assets/image (38).png>)
 
-### Visível e Bloqueado
+### Visibilidade e Bloqueado
 
 Visível e bloqueado são funções básicas da experiência de trabalho com o Inkscape. Eles podem ser desativados e ativados para objetos e grupos individuais e para camadas inteiras. Por padrão, todos objetos são criados como visíveis e desbloqueados. Ao tornar um objeto invisível, ele não pode ser selecionado além de não aparecer tanto do ponto de visto do usuário quanto das próprias operações do programa, como alinhamento, por exemplo, de certa forma é como se o objeto não existisse. Enquanto que bloquear um objeto apenas faz com que ele não seja selecionável. Isso é particularmente útil, por exemplo, nos casos em que você não quer que um objeto interfira na seleção de outros objetos em que ele está sobreposto.
 

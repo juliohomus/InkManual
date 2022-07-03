@@ -58,5 +58,36 @@ A alça com formato de alvo determina qual é o centro de transformação do obj
 
 ![](<../.gitbook/assets/Peek 01-07-2022 15-04.gif>)
 
+### Manipulação de objetos <a href="#_fzh6itdyg8ba" id="_fzh6itdyg8ba"></a>
+
+Existem vários outros atalhos ou interações que não estão explícitas na barra de controle da ferramenta. Vamos citar algumas:&#x20;
+
+
+
+* Ao mover objetos, eles poderão ser atraídos por outros elementos. Modifique as [opções de atração](../configuracoes-de-atracao.md) para ajustar às suas preferências.&#x20;
+* Objetos ou camadas [bloqueadas](../paineis/camadas-e-objetos.md#visivel-e-bloqueado) não podem ser selecionados.
+
+### Atalhos:
+
+| Atalho                   | Função                                             |
+| ------------------------ | -------------------------------------------------- |
+| Shift + Click            | Adiciona objetos à seleção.                        |
+| Delete                   | Exclui um objeto selecionado                       |
+| Esc                      | Retira a seleção                                   |
+| Ctrl + A                 | Seleciona tudo disponível na camada atual          |
+| Ctrl + Alt + A           | Seleciona tudo disponível em todas as camadas      |
+| Crtl + D                 | Cria uma cópia do objeto                           |
+| Alt + D                  | Cria um clone do objeto                            |
+| Alt + Click              | Seleciona sucessivamente o objeto abaixo           |
+| Alt + Roda do mouse      | Seleciona sucessivamente o objeto acima ou abaixo  |
+| Crtl + arrastar objeto   | Atrai o objeto para ser movido no seu eixo x ou y  |
+| Setas do teclado         | Move o objeto                                      |
+| Shift + Setas do teclado | Move o objeto em incrementos                       |
+| V                        | Vira o objeto verticalmente                        |
+| H                        | Vira o objeto horizontalmente                      |
+| Ctrl + ]                 | Gira o objeto 90º em sentido horário               |
+| Ctrl + \[                | Gira o objeto em 90º em sentido anti-horário       |
+|                          |                                                    |
+
 
 
