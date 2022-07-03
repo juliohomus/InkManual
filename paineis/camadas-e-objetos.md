@@ -26,7 +26,7 @@ Objectos só podem ser agrupados sob a mesma camada. Se eles estiverem espalhado
 
 Ao passar o mouse sobre os elementos da árvore do painel, aparecerão três ícones: o primeiro, com formato de um olho, permite exibir ou ocultar aquele elemento, o ícone de cadeado permite bloquear o elemento, o que faz com que ele não possa ser selecionado. Por fim, a cor de destaque indica a cor da camada e permite modificá-la.
 
-![](<../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (38) (1).png>)
 
 ### Visibilidade e Bloqueado
 

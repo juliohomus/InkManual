@@ -40,19 +40,19 @@ _Dispersão_ e _foco_ alteram como os objetos são distribuídos pelo pulverizad
 
 ![](<../.gitbook/assets/Peek 23-06-2022 03-14.gif>)
 
-Vamos agora para a parte final da barra de controle da ferramenta. O primeiro ícone ![](<../.gitbook/assets/image (18).png>) permite aplicar o pulverizador apenas sobre área com alguma opacidade. O segundo ![](<../.gitbook/assets/image (39).png>) permite aplicar o pulverizador sobre área sem qualquer opacidade. Por padrão, ambos estão habilitados, o que quer dizer que você poderá aplicar o pulverizador em qualquer lugar do canvas. Essas opções podem ser úteis para delimitar a área em que você quer aplicar&#x20;
+Vamos agora para a parte final da barra de controle da ferramenta. O primeiro ícone ![](<../.gitbook/assets/image (18).png>) permite aplicar o pulverizador apenas sobre área com alguma opacidade. O segundo ![](<../.gitbook/assets/image (39) (1).png>) permite aplicar o pulverizador sobre área sem qualquer opacidade. Por padrão, ambos estão habilitados, o que quer dizer que você poderá aplicar o pulverizador em qualquer lugar do canvas. Essas opções podem ser úteis para delimitar a área em que você quer aplicar&#x20;
 
 O botão ![](<../.gitbook/assets/image (41).png>) costuma ser confundido com o próximo porque, ao ativá-lo as cópias também tenderão a não se sobrepor. Mas seu verdadeiro objetivo é evitar que as cópias sobreponhas objetos de cores diferentes.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 03-40.gif>)
 
-O botão seguinte ![](<../.gitbook/assets/image (17) (1).png>) evita que objetos se sobreponham. O _deslocamento_ altera a distância que os objetos tentarão manter uns dos outros.&#x20;
+O botão seguinte ![](<../.gitbook/assets/image (17) (1) (1).png>) evita que objetos se sobreponham. O _deslocamento_ altera a distância que os objetos tentarão manter uns dos outros.&#x20;
 
 ![](<../.gitbook/assets/Peek 23-06-2022 02-58.gif>)
 
-Por fim, temos a opção de capturar a cor do objeto abaixo. Que só irá funciona no modo _copiar._ Ao clicar nesse botão ![](<../.gitbook/assets/image (8) (1).png>), aparecerá a janela para clonar em ladrilhos, <mark style="color:red;">mas não conseguimos descobrir ainda como ela deve ser usada</mark>. Fechando a janela, você poderá aplicar normalmente o pulverizador ativando ao menos um dos dois botões ao lado (ou então não haverá captura da cor do objeto abaixo). O ![](<../.gitbook/assets/image (55).png>) irá usar a cor abaixo como preenchimento, ![](<../.gitbook/assets/image (23).png>) irá usar a cor abaixo como contorno, ![](<../.gitbook/assets/image (16).png>) irá inverter (como em um negativo) a cor abaixo, ![](<../.gitbook/assets/image (51).png>) irá pegar a cor do centro do ponteiro,&#x20;
+Por fim, temos a opção de capturar a cor do objeto abaixo. Que só irá funciona no modo _copiar._ Ao clicar nesse botão ![](<../.gitbook/assets/image (8) (1).png>), aparecerá a janela para clonar em ladrilhos, <mark style="color:red;">mas não conseguimos descobrir ainda como ela deve ser usada</mark>. Fechando a janela, você poderá aplicar normalmente o pulverizador ativando ao menos um dos dois botões ao lado (ou então não haverá captura da cor do objeto abaixo). O ![](<../.gitbook/assets/image (55).png>) irá usar a cor abaixo como preenchimento, ![](<../.gitbook/assets/image (23).png>) irá usar a cor abaixo como contorno, ![](<../.gitbook/assets/image (16) (1).png>) irá inverter (como em um negativo) a cor abaixo, ![](<../.gitbook/assets/image (51).png>) irá pegar a cor do centro do ponteiro,&#x20;
 
-![](<../.gitbook/assets/image (36) (1).png>)
+![](<../.gitbook/assets/image (36) (1) (1).png>)
 
 ![](<../.gitbook/assets/Peek 23-06-2022 12-27.gif>)
 

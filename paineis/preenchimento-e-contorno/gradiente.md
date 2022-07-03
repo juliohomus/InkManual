@@ -2,7 +2,7 @@
 
 A opção de gradiente sintetiza todas as funções da [ferramenta gradiente](../../ferramentas/gradiente.md) em uma interface mais compacta e elegante.
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (32) (1).png>)
 
 Assumindo que você já tenha passado pela explicação da ferramenta gradiente, faremos aqui uma breve indicação dos mesmos elementos nessa nova interface:
 

@@ -2,7 +2,7 @@
 
 A barra de ferramentas agrega os principais recursos de criação e edição. Abaixo uma breve descrição que será aprofundada adiante. Cada ferramenta tem sua própria barra de controle com modificadores e alguns atalhos que podem ser encontrados em outros lugares da interface.
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 ​​Seletor: Permite controlar a seleção de objetos, posição, transformação e modificadores de transformação.&#x20;
 

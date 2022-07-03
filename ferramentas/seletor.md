@@ -10,7 +10,7 @@ A ferramenta seletor permite várias operações de seleção e transformação 
 
 ![](../.gitbook/assets/1)
 
-Seguindo a ordem da barra de controle nós temos, ![](<../.gitbook/assets/image (49).png>) **\[Crtl + A]** seleciona todos os objetos apenas na [camada](../paineis/camadas-e-objetos.md) atual. ![](<../.gitbook/assets/image (45).png>) **\[Crtl + Shift + A]** Permite selecionar todos os objetos de todas as camadas [visíveis e não bloqueadas](../paineis/camadas-e-objetos.md#visivel-e-bloqueado). ![](<../.gitbook/assets/image (17).png>)**\[Esc]** irá desfazer a seleção atual. Também é possível inverter a seleção atual com o atalho **\[!].**  Ainda é possível usar o atalho **\[Alt + Click]** para selecionar sucessivamente o objeto abaixo ou **\[Alt + girar a roda do mouse]** para navegar entre os objetos abaixo do ponteiro do mouse.
+Seguindo a ordem da barra de controle nós temos, ![](<../.gitbook/assets/image (49).png>) **\[Crtl + A]** seleciona todos os objetos apenas na [camada](../paineis/camadas-e-objetos.md) atual. ![](<../.gitbook/assets/image (45).png>) **\[Crtl + Shift + A]** Permite selecionar todos os objetos de todas as camadas [visíveis e não bloqueadas](../paineis/camadas-e-objetos.md#visivel-e-bloqueado). ![](<../.gitbook/assets/image (17) (1).png>)**\[Esc]** irá desfazer a seleção atual. Também é possível inverter a seleção atual com o atalho **\[!].**  Ainda é possível usar o atalho **\[Alt + Click]** para selecionar sucessivamente o objeto abaixo ou **\[Alt + girar a roda do mouse]** para navegar entre os objetos abaixo do ponteiro do mouse.
 
 ![](<../.gitbook/assets/Peek 01-07-2022 14-40.gif>)
 
@@ -18,7 +18,7 @@ Seguindo a ordem da barra de controle nós temos, ![](<../.gitbook/assets/image 
 
 ![](<../.gitbook/assets/Peek 01-07-2022 13-39.gif>)
 
-Os botões seguintes ![](<../.gitbook/assets/image (36).png>) permitem girar em 90º para a esquerda e direita; inverter verticalmente e horizontalmente.&#x20;
+Os botões seguintes ![](<../.gitbook/assets/image (36) (1).png>) permitem girar em 90º para a esquerda e direita; inverter verticalmente e horizontalmente.&#x20;
 
 A seguir temos os botões de posição ![](<../.gitbook/assets/image (27).png>). Na ordem, trazer o objeto selecionado para frente de todos os objetos; elevar a oposição do objeto em um nível; reduzir a posição do objeto em um nivel; trazer o objeto para trás.
 
@@ -48,7 +48,7 @@ O modificador para _mover padrões_ ![](../.gitbook/assets/2) irá alternar entr
 
 Vamos agora entrar fundo para as interações da ferramentas diretamente no canvas. Ao clicar sobre um objeto, aparecerão as alças para mudar as suas dimensões, um clique-duplo irá mudar as alçar para girar ou inclinar o objeto.
 
-![](<../.gitbook/assets/image (35).png>)![](<../.gitbook/assets/image (58).png>)
+![](<../.gitbook/assets/image (35) (1).png>)![](<../.gitbook/assets/image (58).png>)
 
 As teclas **\[Crtl]** e **\[Shift]** modificam a interação com as alças. No caso das alças de dimensão, pressionar **\[Crtl]** mantêm a proporção do objeto e **\[Shift]** faz com que o objeto permaneça no seu centro. É possível pressionar as duas teclas ao mesmo tempo para um efeito simultâneo. Para as alças de giro e inclinação, **\[Shift]** irá fazer com que o objeto gire ou incline em num eixo oposto ao ponto da alça selecionada. **\[Crtl]** fará com que o objeto gire em incrementos de 15º por padrão.
 
@@ -87,6 +87,8 @@ Existem vários outros atalhos ou interações que não estão explícitas na ba
 | H                        | Vira o objeto horizontalmente                      |
 | Ctrl + ]                 | Gira o objeto 90º em sentido horário               |
 | Ctrl + \[                | Gira o objeto em 90º em sentido anti-horário       |
+| Ctrl + arrastar alças    | Mantêm proporção e gira em incrementos             |
+| Shift + arrastar alças   | Mantêm objeto no centro e muda o eixo do giro      |
 |                          |                                                    |
 
 

@@ -3,7 +3,7 @@
 * [Manual técnico do Inkscape](README.md)
 * [Ferramentas](ferramentas/README.md)
   * [🟡 Seletor](ferramentas/seletor.md)
-  * [🔴 Editor de nós](ferramentas/editor-de-nos.md)
+  * [🟡 Editor de nós](ferramentas/editor-de-nos.md)
   * [🟡 Retângulo](ferramentas/retangulo.md)
   * [🟡 Círculo](ferramentas/circulo.md)
   * [🟡 Polígono](ferramentas/poligono.md)

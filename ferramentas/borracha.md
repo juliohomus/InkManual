@@ -14,7 +14,7 @@ A ferramenta Borracha permite apagar desenhos de diversas formas. Note pode deli
 
 O segundo modificador irá de fato apagar a área por onde a borracha perpassar. Note que por se tratar de um efeito sobre vetor, os caminhos afetados são reconstruídos.
 
-![](<../.gitbook/assets/Peek 22-06-2022 14-01.gif>)![](<../.gitbook/assets/image (48).png>)
+![](<../.gitbook/assets/Peek 22-06-2022 14-01.gif>)![](<../.gitbook/assets/image (48) (1).png>)
 
 
 
