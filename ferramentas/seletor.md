@@ -69,27 +69,32 @@ Existem vários outros atalhos ou interações que não estão explícitas na ba
 
 ### Atalhos:
 
-| Atalho                   | Função                                             |
-| ------------------------ | -------------------------------------------------- |
-| Shift + Click            | Adiciona objetos à seleção.                        |
-| Delete                   | Exclui um objeto selecionado                       |
-| Esc                      | Retira a seleção                                   |
-| Ctrl + A                 | Seleciona tudo disponível na camada atual          |
-| Ctrl + Alt + A           | Seleciona tudo disponível em todas as camadas      |
-| Crtl + D                 | Cria uma cópia do objeto                           |
-| Alt + D                  | Cria um clone do objeto                            |
-| Alt + Click              | Seleciona sucessivamente o objeto abaixo           |
-| Alt + Roda do mouse      | Seleciona sucessivamente o objeto acima ou abaixo  |
-| Crtl + arrastar objeto   | Atrai o objeto para ser movido no seu eixo x ou y  |
-| Setas do teclado         | Move o objeto                                      |
-| Shift + Setas do teclado | Move o objeto em incrementos                       |
-| V                        | Vira o objeto verticalmente                        |
-| H                        | Vira o objeto horizontalmente                      |
-| Ctrl + ]                 | Gira o objeto 90º em sentido horário               |
-| Ctrl + \[                | Gira o objeto em 90º em sentido anti-horário       |
-| Ctrl + arrastar alças    | Mantêm proporção e gira em incrementos             |
-| Shift + arrastar alças   | Mantêm objeto no centro e muda o eixo do giro      |
-|                          |                                                    |
+| Atalho                     | Função                                             |
+| -------------------------- | -------------------------------------------------- |
+| Shift + Click              | Adiciona objetos à seleção.                        |
+| Delete :arrow\_up:         | Exclui um objeto selecionado                       |
+| Esc :arrow\_up:            | Retira a seleção ou retrocede na ferramenta        |
+| Ctrl + A :arrow\_up:       | Seleciona tudo disponível na camada atual          |
+| Ctrl + Alt + A :arrow\_up: | Seleciona tudo disponível em todas as camadas      |
+| Crtl + D :arrow\_up:       | Cria uma cópia do objeto                           |
+| Alt + D                    | Cria um clone do objeto                            |
+| Alt + Click                | Seleciona sucessivamente o objeto abaixo           |
+| Alt + Roda do mouse        | Seleciona sucessivamente o objeto acima ou abaixo  |
+| Crtl + arrastar objeto     | Atrai o objeto para ser movido no seu eixo x ou y  |
+| Setas do teclado           | Move o objeto                                      |
+| Shift + Setas do teclado   | Move o objeto em incrementos                       |
+| V :arrow\_up:              | Vira o objeto verticalmente                        |
+| H :arrow\_up:              | Vira o objeto horizontalmente                      |
+| Ctrl + ] :arrow\_up:       | Gira o objeto 90º em sentido horário               |
+| Ctrl + \[ :arrow\_up:      | Gira o objeto em 90º em sentido anti-horário       |
+| Ctrl + arrastar alças      | Mantêm proporção e gira em incrementos             |
+| Shift + arrastar alças     | Mantêm objeto no centro e muda o eixo do giro      |
+| Ctrl + C :arrow\_up:       | Copia um objeto                                    |
+| Ctrl + V :arrow\_up:       | Cola um objeto sob o mouse                         |
+| Ctrl + Alt + V :arrow\_up: | Cola um objeto no seu lugar original               |
+| Shift + Ctrl + V           | Cola um estilo de um objeto copiado                |
+| Ctrl + X :arrow\_up:       | Recorta um objeto                                  |
+|                            |                                                    |
 
 
 

@@ -8,7 +8,7 @@ Esse painel permite ver todos os elementos do seu arquivo de forma condensada e 
 
 ![](<../.gitbook/assets/image (5).png>)
 
-O primeiro botão ![](<../.gitbook/assets/image (42) (1).png>) permite mudar a visualização do painel só para camadas ou para todos os elementos. O botão _adicionar camada_ ![](<../.gitbook/assets/image (7).png>) faz literalmente isso, com o auxílio da janela a seguir:
+O primeiro botão ![](<../.gitbook/assets/image (42) (1).png>) permite mudar a visualização do painel só para camadas ou para todos os elementos. O botão _adicionar camada_ ![](<../.gitbook/assets/image (7) (1).png>) faz literalmente isso, com o auxílio da janela a seguir:
 
 ![](<../.gitbook/assets/Captura de tela de 2022-06-22 18-41-43.png>)
 

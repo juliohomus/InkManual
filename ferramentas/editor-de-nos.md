@@ -4,11 +4,19 @@
 Atalho: \[ F2 ]
 {% endhint %}
 
-Como um editor vetorial, a ferramenta de editor de nós é praticamente o coração do Inkscape. Mas para entendê-la, primeiro precisamos entender o próprio conceito de imagem vetorial.&#x20;
+Como um editor vetorial, a ferramenta de editor de nós é praticamente o coração do Inkscape. Mas para entendê-la melhor, primeiro você precisa entender o próprio conceito de imagem vetorial.&#x20;
+
+<details>
+
+<summary>Mais sobre desenho vetorial</summary>
 
 O desenho vetorial nada mais é do uma série de elementos que são calculados matematicamente. Se imaginarmos um retângulo criado em vetor, não importa quão grande ele seja, ele ocupará basicamente o mesmo espaço de armazenamento. Por outro lado, uma imagem rasterizadas (arquivos jpg, png, etc) são compostos de milhares de pontos únicos de cor (pixels) que juntos criam a impressão de uma imagem uniforme. Quanto maior for essa imagem, maior será o número de pixels e logo maior seu espaço de armazenamento.
 
 O elemento básico do desenho vetorial é o nó. Podemos pensar num nó como um mero ponto sem qualquer conteúdo num espaço cartesiano. Esses pontos podem ser criados com algum vínculo, formando um caminho, definindo um preenchimento, etc. Lembre apenas que os nós em si mesmos são "invisíveis" e têm apenas a finalidade de receber as instruções matemáticas que formarão o objeto desejado.
+
+[Clique aqui](https://pt.wikipedia.org/wiki/Desenho\_vetorial) :earth\_americas: para mais informações sobre vetores.
+
+</details>
 
 Note, por último, que a ferramenta Editor de nós é focada precisamente na _edição_, ainda que tecnicamente seja possível adicionar novos nós a partir dela, você deverá usar outras ferramentas, como a [Caneta Bézier](caneta-bezier.md) para expandir um desenho.
 
@@ -69,3 +77,13 @@ O botão ![](<../.gitbook/assets/image (32).png>) irá mostrar o parâmetro edit
 Por fim, vimos temos os botões ![](<../.gitbook/assets/image (39).png>) que permitem exibir alças de transformação e as alças de Bézier respectivamente.&#x20;
 
 ![](<../.gitbook/assets/Peek 03-07-2022 02-16.gif>)
+
+
+
+### Atalhos:
+
+|                              |                                                 |
+| ---------------------------- | ----------------------------------------------- |
+| Shift + Ctrl + C :arrow\_up: | Transforma forma em caminho                     |
+| Ctrl + Alt + C :arrow\_up:   | Transforma contorno em caminho                  |
+| 7                            | Mostrar parâmetro editável de efeito de caminho |

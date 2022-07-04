@@ -36,13 +36,13 @@ _Escala_ permite, assim como no modificador anterior, que cópias sejam feitas n
 
 _Dispersão_ e _foco_ alteram como os objetos são distribuídos pelo pulverizador. A diferença teoria entre eles é que dispersão determina o raio de distribuição das cópias, enquanto foco determina quão distantes do centro do raio as cópias estarão. Contudo, o efeito da dispersão praticamente anula o efeito criado pelo foco. No gif abaixo, ao aplicar dispersão zeramos o foco e vice-versa.&#x20;
 
-![](<../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (50) (1).png>)
 
 ![](<../.gitbook/assets/Peek 23-06-2022 03-14.gif>)
 
 Vamos agora para a parte final da barra de controle da ferramenta. O primeiro ícone ![](<../.gitbook/assets/image (18).png>) permite aplicar o pulverizador apenas sobre área com alguma opacidade. O segundo ![](<../.gitbook/assets/image (39) (1).png>) permite aplicar o pulverizador sobre área sem qualquer opacidade. Por padrão, ambos estão habilitados, o que quer dizer que você poderá aplicar o pulverizador em qualquer lugar do canvas. Essas opções podem ser úteis para delimitar a área em que você quer aplicar&#x20;
 
-O botão ![](<../.gitbook/assets/image (41).png>) costuma ser confundido com o próximo porque, ao ativá-lo as cópias também tenderão a não se sobrepor. Mas seu verdadeiro objetivo é evitar que as cópias sobreponhas objetos de cores diferentes.
+O botão ![](<../.gitbook/assets/image (41) (1).png>) costuma ser confundido com o próximo porque, ao ativá-lo as cópias também tenderão a não se sobrepor. Mas seu verdadeiro objetivo é evitar que as cópias sobreponhas objetos de cores diferentes.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 03-40.gif>)
 

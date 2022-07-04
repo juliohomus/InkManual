@@ -8,7 +8,11 @@ Versão atual: 1.2
 
 Sua organização presume algum nível de familiaridade com o programa. Não sendo indicado para quem ainda não tem experiência básica com ele. Para iniciar no conhecimento básico do Inkscape, aproveite alguma das opções abaixo:
 
-Em geral, seguiremos a hierarquia da interface do programa. Mas em alguns casos específicos preferiremos agregar todas as funções referentes à uma funcionalidade ou fluxo de trabalho dentro de uma categoria separada.
+
+
+Maior parte dos links presentes neste documento são internos, links externos serão indicados pelo simbolo :earth\_americas:.
+
+Atalhos indicados com :arrow\_up: funcionam em qualquer ferramenta ativada.
 
 
 
