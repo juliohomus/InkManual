@@ -32,7 +32,7 @@ Indo para a barra de controle da ferramenta, temos os primeiros dos botões![](<
 
 ![](<../.gitbook/assets/Peek 02-07-2022 23-25.gif>)
 
-O próximo botão ![](<../.gitbook/assets/image (33).png>)permite unificar dois nós, ainda que sejam de objetos diferentes.
+O próximo botão ![](<../.gitbook/assets/image (33) (1).png>)permite unificar dois nós, ainda que sejam de objetos diferentes.
 
 ![](<../.gitbook/assets/Peek 03-07-2022 00-04.gif>)![](<../.gitbook/assets/Peek 03-07-2022 00-06.gif>)
 
