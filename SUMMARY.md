@@ -69,6 +69,5 @@
 * [Menus](menus/README.md)
   * [Caminho](menus/caminho/README.md)
     * [Traçar Bitmap](menus/caminho/tracar-bitmap.md)
-* [Atração](atracao.md)
 * [Configurações de Atração](configuracoes-de-atracao.md)
 * [Barra de Status](barra-de-status.md)
