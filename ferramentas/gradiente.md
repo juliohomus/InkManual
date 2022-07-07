@@ -14,7 +14,7 @@ A ferramenta gradiente permite criar gradientes lineares ou radiais par preenchi
 
 ![](<../.gitbook/assets/Peek 22-06-2022 01-20.gif>)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 A seguir, em _seleção_ podemos escolher numa lista entre os gradientes já presentes no nosso arquivo. O cadeado à direita permite vincular modificações feitas no gradiente (exemplo abaixo). Se desativado, modificações criarão um novo gradiente.
 

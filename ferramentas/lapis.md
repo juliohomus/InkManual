@@ -10,17 +10,32 @@ O campo "Min:" e "Máximo" se referem à largura mínima e máxima do traço. C�
 
 ![](<../.gitbook/assets/image (18).png>)
 
-Sem ativar a sensibilidade à pressão, vamos ter outras opções na barra de controle. Primeiro é possível escolher o modo de desenho, entre caminho bézier regular, caminho espiral e b-spline. Na prática, ao criar um traço, a aparência será praticamente idêntica num primeiro momento, você só perceberá a diferença ao usar o [editor de nós](editor-de-nos.md).&#x20;
+Sem ativar a sensibilidade à pressão, vamos ter outras opções na barra de controle. Primeiro é possível escolher o modo de desenho, entre caminho bézier regular, caminho espiral e b-spline \[confira a [Caneta bézier](caneta-bezier.md) para entender melhor sobre esses padrões de caminho]. Na prática, ao criar um traço, a aparência será praticamente idêntica num primeiro momento, você só perceberá a diferença ao usar o [editor de nós](editor-de-nos.md). Após criar o traço, é possível converter uma espiral ou b-spline em curvar regular com o botão ![](<../.gitbook/assets/image (24).png>).
 
 {% hint style="info" %}
-Como a ferramenta vai criar muitos nós, talvez você ache melhor usar o menu **Caminho → Simplificar** (Atalho Ctrl + L) para diminuir o número de nós que irá editar.
+Usar uma suavização maior diminui o número de nós. Você também pode usar o menu **Caminho → Simplificar** (Atalho Ctrl + L) para diminuir o número de nós.
 {% endhint %}
 
 _Suavização_ repete a mesma função de suavizar a precisão do traço, mas com a ajuda adicional do botão seguinte ![](<../.gitbook/assets/image (33).png>), você poderá modificar a suavidade interativamente. O botão à esquerda irá "fixar" o valor definido e você não poderá mais modificá-la.
 
 ![](<../.gitbook/assets/Peek 06-07-2022 03-31.gif>)
 
+![](<../.gitbook/assets/image (9).png>)
 
+Por fim, temos o campo Forma, onde você pode selecionar pinceis predefinidos ou usar um objeto criado para isso. As opções predefinidas são: _Nenhum,_ para um traço simples; _Entrada triangular_ e _Saída triangular,_ onde o pincel terá a forma de um triângulo nas direções indicadas; _Elipse,_ terá um formato circular; __&#x20;
 
+_<mark style="color:red;">Da área de transferência; Curva da área de transferência;</mark> Último aplicado,_ irá usar o último formato utilizado.&#x20;
 
+Após criar um traço, é possível usar o editor de nós para interagir com a alça que permitirá alterar a espessura do traço.
 
+![](<../.gitbook/assets/Peek 07-07-2022 02-21.gif>)
+
+Você pode pressionar **Shift** enquanto cria um traço para continuá-lo ou desenhar dentro do mesmo objeto.&#x20;
+
+![](<../.gitbook/assets/Peek 07-07-2022 02-37.gif>)
+
+Por fim, a ferramenta tem uma função oculta que é de criar círculos com diversos padrões.
+
+{% hint style="danger" %}
+Acrescentar informação
+{% endhint %}
