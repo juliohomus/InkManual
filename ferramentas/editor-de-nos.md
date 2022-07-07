@@ -74,7 +74,7 @@ O botão ![](<../.gitbook/assets/image (32).png>) irá mostrar o parâmetro edit
 
 ![](<../.gitbook/assets/Peek 03-07-2022 02-08.gif>)![](<../.gitbook/assets/Peek 03-07-2022 02-12.gif>)
 
-Por fim, vimos temos os botões ![](<../.gitbook/assets/image (39).png>) que permitem exibir alças de transformação e as alças de Bézier respectivamente.&#x20;
+Por fim, vimos temos os botões ![](<../.gitbook/assets/image (39) (1).png>) que permitem exibir alças de transformação e as alças de Bézier respectivamente.&#x20;
 
 ![](<../.gitbook/assets/Peek 03-07-2022 02-16.gif>)
 

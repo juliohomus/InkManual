@@ -8,7 +8,7 @@ As opções da barra de controle vão mudar completamente se ativada a sensibili
 
 O campo "Min:" e "Máximo" se referem à largura mínima e máxima do traço. Cápsulas define o formato das pontas do traço. E suavização define o quanto o traço será simplificado, para reduzir as variações de precisão.
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 
 Sem ativar a sensibilidade à pressão, vamos ter outras opções na barra de controle. Primeiro é possível escolher o modo de desenho, entre caminho bézier regular, caminho espiral e b-spline \[confira a [Caneta bézier](caneta-bezier.md) para entender melhor sobre esses padrões de caminho]. Na prática, ao criar um traço, a aparência será praticamente idêntica num primeiro momento, você só perceberá a diferença ao usar o [editor de nós](editor-de-nos.md). Após criar o traço, é possível converter uma espiral ou b-spline em curvar regular com o botão ![](<../.gitbook/assets/image (24).png>).
 
@@ -20,7 +20,7 @@ _Suavização_ repete a mesma função de suavizar a precisão do traço, mas co
 
 ![](<../.gitbook/assets/Peek 06-07-2022 03-31.gif>)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 Por fim, temos o campo Forma, onde você pode selecionar pinceis predefinidos ou usar um objeto criado para isso. As opções predefinidas são: _Nenhum,_ para um traço simples; _Entrada triangular_ e _Saída triangular,_ onde o pincel terá a forma de um triângulo nas direções indicadas; _Elipse,_ terá um formato circular; __&#x20;
 

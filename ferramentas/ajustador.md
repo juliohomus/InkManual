@@ -10,7 +10,7 @@ Como o inkscape ainda não tem aceleração por GPU, entre outras limitações t
 
 A ferramenta ajustador permite aplicar interativamente várias formas de distorções para os objetos. Note que a ferramenta apenas modifica os objetos previamente selecionados.
 
-![](<../.gitbook/assets/image (14).png>)![](<../.gitbook/assets/image (53).png>)
+![](<../.gitbook/assets/image (14) (1).png>)![](<../.gitbook/assets/image (53) (1).png>)
 
 Os primeiros modificadores da barra de controle dessa ferramenta permite modificar a _largura_ do ponteiro do mouse e a _força_ da ação, ou seja, é um multiplicador do efeito que iremos selecionar logo mais. Para simplificar, vamos logo tratar do último modificador, _fidelidade_ corresponde ao nível de detalhe das deformações. Quanto maior a fidelidade, maior o número de nós e consequentemente mais pesado ficará o processamento do seu arquivo.
 

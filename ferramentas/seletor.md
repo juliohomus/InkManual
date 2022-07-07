@@ -34,7 +34,7 @@ Seguindo, temos o modificador ![](<../.gitbook/assets/image (37).png>) altera co
 
 ![](<../.gitbook/assets/Peek 01-07-2022 14-03.gif>)
 
-![](<../.gitbook/assets/image (52).png>) Altera como o raio do [retângulo](retangulo.md) será redimensionado. Se desativado, o retângulo terá um raio fixo.&#x20;
+![](<../.gitbook/assets/image (52) (1).png>) Altera como o raio do [retângulo](retangulo.md) será redimensionado. Se desativado, o retângulo terá um raio fixo.&#x20;
 
 ![](<../.gitbook/assets/Peek 01-07-2022 14-04.gif>)
 
