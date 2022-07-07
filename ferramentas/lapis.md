@@ -34,8 +34,16 @@ Você pode pressionar **Shift** enquanto cria um traço para continuá-lo ou des
 
 ![](<../.gitbook/assets/Peek 07-07-2022 02-37.gif>)
 
-Por fim, a ferramenta tem uma função oculta que é de criar círculos com diversos padrões.
+<details>
 
-{% hint style="danger" %}
-Acrescentar informação
-{% endhint %}
+<summary>Criar pontos</summary>
+
+A ferramenta ainda tem uma função que permite criar pontos. Pressionar **\[Ctrl]** e click cria um ponto. **\[Shift] + \[Ctrl]** e click irá dobrar o tamanho do ponto. **\[Ctrl] + \[Alt]** e click irá criar um círculo pequeno de tamanho aleatório. **\[Ctrl] + \[Shift] + \[Alt]** e click irá criar círculos grandes de tamanhos aleatórios. Note que os os pontos são na verdade [círculos](circulo.md). Essa função pode ser útil, mas a ferramenta pulverizador permite criar resultados semelhantes mais complexos e mais rápido.
+
+![](<../.gitbook/assets/Captura de tela de 2022-07-07 13-26-23.png>)
+
+</details>
+
+Uma última funcionalidade da ferramenta é o modo _rascunho,_ ativado ao manter **\[Alt]** pressionado enquanto se cria os traços. O objetivo deste recurso é emular a forma como artistas tentam criar traços mais precisos a partir de diversos traços. Isto funcionará melhor com traços contínuos do que com formas geométricas.
+
+![](<../.gitbook/assets/Peek 07-07-2022 13-04.gif>)
