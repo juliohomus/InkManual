@@ -18,7 +18,7 @@ Os primeiros modificadores da barra de controle dessa ferramenta permite modific
 
 Chegamos então aos modos de ajuste. Alguns deles são específicos para um grupo de vários objetos, geralmente pequenos, outros atuam melhor sobre objetos (bem) maiores. Para exemplificá-lo criamos um ladrilho de 30x30 objetos (cada com cerca de 10x10px). tenha isso em mente ao replicar esses efeitos em outros trabalhos.
 
-O primeiro modo ![](<../.gitbook/assets/image (37) (1).png>) move objetos em qualquer direção.
+O primeiro modo ![](<../.gitbook/assets/image (37) (1) (1).png>) move objetos em qualquer direção.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-24.gif>)
 
@@ -66,7 +66,7 @@ O modo ![](<../.gitbook/assets/image (33) (1) (1).png>) permite empurrar as bord
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-56.gif>)
 
-O modo ![](<../.gitbook/assets/image (2) (1).png>) permite encolher as bordas do objeto na direção do cursor.
+O modo ![](<../.gitbook/assets/image (2) (1) (1).png>) permite encolher as bordas do objeto na direção do cursor.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-57.gif>)
 

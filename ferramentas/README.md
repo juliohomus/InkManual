@@ -29,5 +29,5 @@ A barra de ferramentas agrega os principais recursos de criação e edição. Ab
 * Páginas: permite criar páginas, modificar sua ordem, mover e redimensioná-las.
 
 {% hint style="info" %}
-A barra de controle tem vários botões ![](<../.gitbook/assets/image (20) (1).png>) para ativar a sensibilidade de pressão do dispositivo de entrada. Como todos são autoexplicativos, não vamos detalhá-los aqui.
+A barra de controle tem vários botões ![](<../.gitbook/assets/image (20) (1) (1).png>) para ativar a sensibilidade de pressão do dispositivo de entrada. Como todos são autoexplicativos, não vamos detalhá-los aqui.
 {% endhint %}

@@ -39,3 +39,23 @@ Também é possível acessar o menu de contexto para cada elemento da árvore. O
 ![](<../.gitbook/assets/image (25).png>)
 
 Todas as entradas do menu são autoexplicativas, mas vale mencionar a opção Camada para Grupo que permite converter uma camada em grupo. Objetos dentro da hierarquia de uma camada não estão "relacionados" para quase todos os fins práticos de edição. Você pode movê-los e editá-los sem que isso cause efeito sobre os demais objetos.&#x20;
+
+{% hint style="info" %}
+Existe na [barra de status](../barra-de-status.md) um indicador da camada atual.
+
+![](<../.gitbook/assets/image (20).png>)
+{% endhint %}
+
+### Menu  Camada
+
+![](<../.gitbook/assets/image (2).png>)
+
+O menu para Camada é bastante autoexplicativo, tendo só mais funções debtro daquilo que já abordamos.&#x20;
+
+### Atalhos
+
+| Atalho           | Função                             |
+| ---------------- | ---------------------------------- |
+| Shift + Ctrl + L | Abre o painel de Camadas e Objetos |
+|                  |                                    |
+|                  |                                    |

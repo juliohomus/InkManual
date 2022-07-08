@@ -14,7 +14,7 @@ Seguindo a ordem da barra de controle nós temos, ![](<../.gitbook/assets/image 
 
 ![](<../.gitbook/assets/Peek 01-07-2022 14-40.gif>)
 
-![](<../.gitbook/assets/image (20).png>) Muda o comportamento da caixa de seleção. Por padrão, apenas os objetos inteiramente dentro da seleção serão ativados, ao alternar este modificador qualquer objeto perpassado pela caixa de seleção será ativado.
+![](<../.gitbook/assets/image (20) (1).png>) Muda o comportamento da caixa de seleção. Por padrão, apenas os objetos inteiramente dentro da seleção serão ativados, ao alternar este modificador qualquer objeto perpassado pela caixa de seleção será ativado.
 
 ![](<../.gitbook/assets/Peek 01-07-2022 13-39.gif>)
 
@@ -30,7 +30,7 @@ Note que ao elevar ou reduzir um nível para uma seleção de vários objetos, c
 
 As opções seguintes (imagem acima) permitem alterar a posição do objeto no canvas, determinado pelos campos X e Y. Os campos L e A determinam Largura e altura do objeto. O cadeado no centro permite alterar as dimensões proporcionalmente. A última caixa permite alterar a unidade de medida.
 
-Seguindo, temos o modificador ![](<../.gitbook/assets/image (37).png>) altera como o contorno é redimensionado junto com o objeto. Se desativado, o contorno permanecerá no seu tamanho original.
+Seguindo, temos o modificador ![](<../.gitbook/assets/image (37) (1).png>) altera como o contorno é redimensionado junto com o objeto. Se desativado, o contorno permanecerá no seu tamanho original.
 
 ![](<../.gitbook/assets/Peek 01-07-2022 14-03.gif>)
 
