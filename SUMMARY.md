@@ -69,4 +69,5 @@
 * [Configurações de Atração](configuracoes-de-atracao.md)
 * [Caminho](caminho/README.md)
   * [Traçar Bitmap](caminho/tracar-bitmap.md)
-* [Barra de Status](barra-de-status.md)
+* [🟢 Barra de Status](barra-de-status.md)
+* [🔴 Paleta de Cores](paleta-de-cores.md)

@@ -4,7 +4,7 @@
 Atalho: \[ G ]
 {% endhint %}
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 A ferramenta gradiente permite criar gradientes lineares ou radiais par preenchimento ou contorno. Para criar um degradê, apenas selecione um ou mais objetos e selecione a ferramenta, daí clique para criar uma linha e ver em tempo real a posição do degradê. Para modificar essa distribuição do degradê, basta arrastar as alças visíveis sobre o objeto em questão.
 
@@ -30,7 +30,7 @@ O campo _repetir_ altera como o gradiente é "estendido". Na opção _nenhum,_ o
 
 ![](<../.gitbook/assets/Peek 22-06-2022 01-40.gif>)
 
-![](<../.gitbook/assets/image (60).png>)
+![](<../.gitbook/assets/image (60) (1).png>)
 
 Por último, temos a edição dos pontos do degradê. Todo degradê tem ao menos dois pontos e você poderá acrescentar quantos pontos intermediários quiser. O primeiro campo, _pontos_, exibe uma lista dos pontos, o que é basicamente a cor sólida de cada ponto. Clicando sobre um ponto você o estará selecionando e poderá alterar sua cor e deslocamento. _Deslocamento_ serve para fazer isso manualmente, você poderá definir um valor numérico para o distanciamento. Os dois últimos botões permitem acrescentar novos pontos ou excluir um ponto selecionado.
 

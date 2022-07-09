@@ -36,7 +36,7 @@ _Escala_ permite, assim como no modificador anterior, que cópias sejam feitas n
 
 _Dispersão_ e _foco_ alteram como os objetos são distribuídos pelo pulverizador. A diferença teoria entre eles é que dispersão determina o raio de distribuição das cópias, enquanto foco determina quão distantes do centro do raio as cópias estarão. Contudo, o efeito da dispersão praticamente anula o efeito criado pelo foco. No gif abaixo, ao aplicar dispersão zeramos o foco e vice-versa.&#x20;
 
-![](<../.gitbook/assets/image (50) (1).png>)
+![](<../.gitbook/assets/image (50) (1) (1).png>)
 
 ![](<../.gitbook/assets/Peek 23-06-2022 03-14.gif>)
 
@@ -50,7 +50,7 @@ O botão seguinte ![](<../.gitbook/assets/image (17) (1) (1).png>) evita que obj
 
 ![](<../.gitbook/assets/Peek 23-06-2022 02-58.gif>)
 
-Por fim, temos a opção de capturar a cor do objeto abaixo. Que só irá funciona no modo _copiar._ Ao clicar nesse botão ![](<../.gitbook/assets/image (8) (1) (1).png>), aparecerá a janela para clonar em ladrilhos, <mark style="color:red;">mas não conseguimos descobrir ainda como ela deve ser usada</mark>. Fechando a janela, você poderá aplicar normalmente o pulverizador ativando ao menos um dos dois botões ao lado (ou então não haverá captura da cor do objeto abaixo). O ![](<../.gitbook/assets/image (55).png>) irá usar a cor abaixo como preenchimento, ![](<../.gitbook/assets/image (23) (1).png>) irá usar a cor abaixo como contorno, ![](<../.gitbook/assets/image (16) (1).png>) irá inverter (como em um negativo) a cor abaixo, ![](<../.gitbook/assets/image (51).png>) irá pegar a cor do centro do ponteiro,&#x20;
+Por fim, temos a opção de capturar a cor do objeto abaixo. Que só irá funciona no modo _copiar._ Ao clicar nesse botão ![](<../.gitbook/assets/image (8) (1) (1).png>), aparecerá a janela para clonar em ladrilhos, <mark style="color:red;">mas não conseguimos descobrir ainda como ela deve ser usada</mark>. Fechando a janela, você poderá aplicar normalmente o pulverizador ativando ao menos um dos dois botões ao lado (ou então não haverá captura da cor do objeto abaixo). O ![](<../.gitbook/assets/image (55).png>) irá usar a cor abaixo como preenchimento, ![](<../.gitbook/assets/image (23) (1).png>) irá usar a cor abaixo como contorno, ![](<../.gitbook/assets/image (16) (1) (1).png>) irá inverter (como em um negativo) a cor abaixo, ![](<../.gitbook/assets/image (51) (1).png>) irá pegar a cor do centro do ponteiro,&#x20;
 
 ![](<../.gitbook/assets/image (36) (1) (1) (1).png>)
 

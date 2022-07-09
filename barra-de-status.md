@@ -1,10 +1,10 @@
-# Barra de Status
+# 🟢 Barra de Status
 
 A barra de status fica na parte debaixo da interfacec e agrega informações sobre diversos elementos da própria interface e do arquivo.
 
 A primeira informação disponível é o Preenchimento, Contorno e espessura do contorno. Na imagem abaixo, por exemplo, temos a indicação de um objeto com preenchimento gradiente vermelho Linear, contorno verde de 0,5mm.
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (1).png>)
 
 O próximo campo determina a transparência global do objeto, assim como disponível no painel de [Preenchimento e contorno](paineis/preenchimento-e-contorno/).&#x20;
 
