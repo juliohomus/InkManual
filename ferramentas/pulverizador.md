@@ -16,7 +16,7 @@ Para usar a ferramenta, primeiro você deve selecionar um ou mais objetos que se
 
 ![](<../.gitbook/assets/image (34).png>)
 
-A barra de controle da ferramenta tem 4 modificadores principais. O primeiro cria cópias da seleção. O segundo cria clones da seleção. O terceiro cria um caminho único a partir da seleção. No gif acima, é possível ver esses modos na respectiva ordem. O quarto modo transforma a ferramenta em uma borracha. Note, contudo, que ela tem um único comportamento, apagando todos os objetos por quais passar.
+A barra de controle da ferramenta tem 4 modificadores principais. O primeiro cria cópias da seleção. O segundo cria clones da seleção. O terceiro cria um caminho único a partir da seleção. No gif acima, é possível ver esses modos na respectiva ordem. O quarto modo transforma a ferramenta em uma borracha. Note, contudo, que ela tem um único comportamento, apagando todos os objetos clonados por quais passar.
 
 ![](<../.gitbook/assets/Peek 22-06-2022 21-28.gif>)
 
