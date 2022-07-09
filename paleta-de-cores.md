@@ -45,3 +45,6 @@ Para criar paletas de cores, basta criar um novo arquivo com objetos nas cores q
 ![](<.gitbook/assets/image (55).png>)
 
 ### Recursos adicionais
+
+* [Como criar uma paleta de cores com valores hexadecimais](https://www.wikihow.com/Make-a-Custom-Color-Palette-in-Inkscape).&#x20;
+* [Como detalhado da criação de paleta de cor por Logos by Nick](https://logosbynick.com/save-a-custom-color-palette-in-inkscape/).
