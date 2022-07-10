@@ -71,3 +71,4 @@
   * [Traçar Bitmap](caminho/tracar-bitmap.md)
 * [🟢 Barra de Status](barra-de-status.md)
 * [🔴 Paleta de Cores](paleta-de-cores.md)
+* [Menu Editar](menu-editar.md)

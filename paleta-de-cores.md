@@ -24,13 +24,13 @@ Essa é uma função com diversas limitações e que será melhorada em futuros 
 
 Amostras de cores ou _swatches,_ como é chamada em inglês, é uma paleta criada exclusivamente para o arquivo atual. Ela pode ser acessada pelo painel _Amostra de cores_.&#x20;
 
-Para criar uma amostra, apenas criei e/ou selecione um objeto que já tem a cor que você deseja usar. Abra o painel de [Preenchimento e contorno](paineis/preenchimento-e-contorno/), e clique sobre o botão _amostra_ ![](<.gitbook/assets/image (10).png>). A cor ou gradiente será automaticamente inserida nas _Amostras de cores_.
+Para criar uma amostra, apenas criei e/ou selecione um objeto que já tem a cor que você deseja usar. Abra o painel de [Preenchimento e contorno](paineis/preenchimento-e-contorno/), e clique sobre o botão _amostra_ ![](<.gitbook/assets/image (10) (1).png>). A cor ou gradiente será automaticamente inserida nas _Amostras de cores_.
 
 ![](<.gitbook/assets/image (47).png>)
 
 Note que o comportamento padrão do botão _amostra_ é inserir a cor do objeto nas _Amostras de cores_. Se você selecionar um outro objeto, com uma outra cor, ela será adicionada como amostra. Se você quer apenas selecionar uma cor, deve usar o painel _Amostras de cores_.
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 
 Ao clicar com o botão direito do mouse sobre uma das cores da amostra, as duas últimas entradas possuem limitações que precisam de esclarecimento. **Editar** permite apenas a edição de gradientes, não afetará cores sólidas. A edição da amostra de gradiente não precisa ser feita por este caminho, basta editar o gradiente diretamente sobre o gradiente e ele atualizará automaticamente a amostra. **Contudo, a mudança não afetará a pequena visualização na paleta, que permanecerá com o padrão original**. A última opção, "Converter", é um atalho para adicionar um gradiente na amostra, mas sua funcionalidade pode ser confusa.
 

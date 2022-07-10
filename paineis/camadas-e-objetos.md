@@ -6,7 +6,7 @@ A partir do Inkscape 1.2 o painel de camada foi reformulado e agregou o painel d
 
 Esse painel permite ver todos os elementos do seu arquivo de forma condensada e organizada. Vamos para uma breve descrição dos botões do topo do painel.
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 O primeiro botão ![](<../.gitbook/assets/image (42) (1).png>) permite mudar a visualização do painel só para camadas ou para todos os elementos. O botão _adicionar camada_ ![](<../.gitbook/assets/image (7) (1).png>) faz literalmente isso, com o auxílio da janela a seguir:
 
@@ -36,7 +36,7 @@ Visível e bloqueado são funções básicas da experiência de trabalho com o I
 
 Também é possível acessar o menu de contexto para cada elemento da árvore. O menu de contexto para objetos e grupos é exatamente o mesmo disponível ao se clicar com o botão direito do mouse sobre no canvas, por isso vamos apenas mostrar aqui o menu de contexto para camada, já que ele aparece exclusivamente aqui.&#x20;
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25) (1).png>)
 
 Todas as entradas do menu são autoexplicativas, mas vale mencionar a opção Camada para Grupo que permite converter uma camada em grupo. Objetos dentro da hierarquia de uma camada não estão "relacionados" para quase todos os fins práticos de edição. Você pode movê-los e editá-los sem que isso cause efeito sobre os demais objetos.&#x20;
 

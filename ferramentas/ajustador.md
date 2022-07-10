@@ -34,7 +34,7 @@ O modo ![](<../.gitbook/assets/image (15).png>) permite reduzir ou aumentar (pre
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-30.gif>)
 
-O modo ![](<../.gitbook/assets/image (10) (1).png>) permite rotacionar os objetos. Pressione Shift para rotacionar em sentindo anti-horário.
+O modo ![](<../.gitbook/assets/image (10) (1) (1).png>) permite rotacionar os objetos. Pressione Shift para rotacionar em sentindo anti-horário.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-34.gif>)
 
@@ -56,7 +56,7 @@ O modo ![](<../.gitbook/assets/image (56).png>) vibra as cores já existentes no
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-49.gif>)
 
-O modo ![](<../.gitbook/assets/image (40) (1).png>) desfoca os objetos.
+O modo ![](<../.gitbook/assets/image (40) (1) (1).png>) desfoca os objetos.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-50.gif>)
 

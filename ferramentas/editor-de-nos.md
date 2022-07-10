@@ -44,7 +44,7 @@ O próximo botão ![](<../.gitbook/assets/image (33) (1).png>)permite unificar d
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-07.gif>)![](<../.gitbook/assets/Peek 03-07-2022 01-18.gif>)
 
-![](<../.gitbook/assets/image (40).png>) irá fazer o exato oposto, excluindo a união entre os caminhos selecionados.
+![](<../.gitbook/assets/image (40) (1).png>) irá fazer o exato oposto, excluindo a união entre os caminhos selecionados.
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-21.gif>)![](<../.gitbook/assets/Peek 03-07-2022 01-23.gif>)
 
