@@ -28,7 +28,7 @@ Em seguida temos o indicador de página, onde é possível navegar entre as pág
 
 O campo seguinte indica a posição x, y do cursor no canvas.
 
-![](<.gitbook/assets/image (52).png>)
+![](<.gitbook/assets/image (52) (1).png>)
 
 Temos então o campo de zoom, onde é possível ver o zoom atual e modificá-lo.
 

@@ -14,7 +14,7 @@ Para usar a ferramenta, primeiro você deve selecionar um ou mais objetos que se
 
 ![](<../.gitbook/assets/Peek 22-06-2022 21-15.gif>)
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)
 
 A barra de controle da ferramenta tem 4 modificadores principais. O primeiro cria cópias da seleção. O segundo cria clones da seleção. O terceiro cria um caminho único a partir da seleção. No gif acima, é possível ver esses modos na respectiva ordem. O quarto modo transforma a ferramenta em uma borracha. Note, contudo, que ela tem um único comportamento, apagando todos os objetos clonados por quais passar.
 
@@ -26,7 +26,7 @@ Os próximos modificadores são:
 
 _Largura_ define a largura da área de aplicação do pulverizador. Ela não afeta o tamanho do objeto pulverizado, apenas a largura da área em que ele poderá ser aplicado. Ela é indicada pelo círculo laranja envolta do ponteiro da ferramenta.
 
-![](<../.gitbook/assets/image (49) (1).png>)
+![](<../.gitbook/assets/image (49) (1) (1).png>)
 
 _Quantia_ determina a quantidade de cópias que serão feitas ao se clicar e arrastar a ferramenta sobre o canvas relativo à velocidade com que o traço é feito. Um traço mais rápido produzirá menos cópias.
 
@@ -50,7 +50,7 @@ O botão seguinte ![](<../.gitbook/assets/image (17) (1) (1).png>) evita que obj
 
 ![](<../.gitbook/assets/Peek 23-06-2022 02-58.gif>)
 
-Por fim, temos a opção de capturar a cor do objeto abaixo. Que só irá funciona no modo _copiar._ Ao clicar nesse botão ![](<../.gitbook/assets/image (8) (1) (1).png>), aparecerá a janela para clonar em ladrilhos, <mark style="color:red;">mas não conseguimos descobrir ainda como ela deve ser usada</mark>. Fechando a janela, você poderá aplicar normalmente o pulverizador ativando ao menos um dos dois botões ao lado (ou então não haverá captura da cor do objeto abaixo). O ![](<../.gitbook/assets/image (55) (1).png>) irá usar a cor abaixo como preenchimento, ![](<../.gitbook/assets/image (23) (1).png>) irá usar a cor abaixo como contorno, ![](<../.gitbook/assets/image (16) (1) (1).png>) irá inverter (como em um negativo) a cor abaixo, ![](<../.gitbook/assets/image (51) (1).png>) irá pegar a cor do centro do ponteiro,&#x20;
+Por fim, temos a opção de capturar a cor do objeto abaixo. Que só irá funciona no modo _copiar._ Ao clicar nesse botão ![](<../.gitbook/assets/image (8) (1) (1).png>), aparecerá a janela para clonar em ladrilhos, <mark style="color:red;">mas não conseguimos descobrir ainda como ela deve ser usada</mark>. Fechando a janela, você poderá aplicar normalmente o pulverizador ativando ao menos um dos dois botões ao lado (ou então não haverá captura da cor do objeto abaixo). O ![](<../.gitbook/assets/image (55) (1).png>) irá usar a cor abaixo como preenchimento, ![](<../.gitbook/assets/image (23) (1) (1).png>) irá usar a cor abaixo como contorno, ![](<../.gitbook/assets/image (16) (1) (1).png>) irá inverter (como em um negativo) a cor abaixo, ![](<../.gitbook/assets/image (51) (1) (1).png>) irá pegar a cor do centro do ponteiro,&#x20;
 
 ![](<../.gitbook/assets/image (36) (1) (1) (1).png>)
 

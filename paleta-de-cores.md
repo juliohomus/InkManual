@@ -12,7 +12,7 @@ A _paleta de cores_ permite visualizar uma seleção de cores que podem ser usad
 
 O botão direito do mouse abre um menu de contexto que permite&#x20;
 
-O botão no canto direito ![](<.gitbook/assets/image (51).png>) abre uma lista de paletas predefinidas com a primeira opção, **auto**, sendo as [Amostras de cores](paleta-de-cores.md#amostras-de-cores). A última opção, Configurar, exibe um menu compacto de personalização da exibição da paleta.
+O botão no canto direito ![](<.gitbook/assets/image (51) (1).png>) abre uma lista de paletas predefinidas com a primeira opção, **auto**, sendo as [Amostras de cores](paleta-de-cores.md#amostras-de-cores). A última opção, Configurar, exibe um menu compacto de personalização da exibição da paleta.
 
 ![](<.gitbook/assets/Peek 09-07-2022 00-40.gif>)
 

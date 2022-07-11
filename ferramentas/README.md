@@ -2,7 +2,7 @@
 
 A barra de ferramentas agrega os principais recursos de criação e edição. Abaixo uma breve descrição que será aprofundada adiante. Cada ferramenta tem sua própria barra de controle com modificadores e alguns atalhos que podem ser encontrados em outros lugares da interface.
 
-![](<../.gitbook/assets/image (21) (1).png>)
+![](<../.gitbook/assets/image (21) (1) (1).png>)
 
 ​​Seletor: Permite controlar a seleção de objetos, posição, transformação e modificadores de transformação.&#x20;
 
@@ -29,5 +29,5 @@ A barra de ferramentas agrega os principais recursos de criação e edição. Ab
 * Páginas: permite criar páginas, modificar sua ordem, mover e redimensioná-las.
 
 {% hint style="info" %}
-A barra de controle tem vários botões ![](<../.gitbook/assets/image (20) (1) (1).png>) para ativar a sensibilidade de pressão do dispositivo de entrada. Como todos são autoexplicativos, não vamos detalhá-los aqui.
+A barra de controle tem vários botões ![](<../.gitbook/assets/image (20) (1) (1) (1).png>) para ativar a sensibilidade de pressão do dispositivo de entrada. Como todos são autoexplicativos, não vamos detalhá-los aqui.
 {% endhint %}

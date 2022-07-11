@@ -14,7 +14,7 @@ A ferramenta ajustador permite aplicar interativamente várias formas de distor�
 
 Os primeiros modificadores da barra de controle dessa ferramenta permite modificar a _largura_ do ponteiro do mouse e a _força_ da ação, ou seja, é um multiplicador do efeito que iremos selecionar logo mais. Para simplificar, vamos logo tratar do último modificador, _fidelidade_ corresponde ao nível de detalhe das deformações. Quanto maior a fidelidade, maior o número de nós e consequentemente mais pesado ficará o processamento do seu arquivo.
 
-![](<../.gitbook/assets/image (57).png>)
+![](<../.gitbook/assets/image (57) (1).png>)
 
 Chegamos então aos modos de ajuste. Alguns deles são específicos para um grupo de vários objetos, geralmente pequenos, outros atuam melhor sobre objetos (bem) maiores. Para exemplificá-lo criamos um ladrilho de 30x30 objetos (cada com cerca de 10x10px). tenha isso em mente ao replicar esses efeitos em outros trabalhos.
 
@@ -26,7 +26,7 @@ O modo ![](<../.gitbook/assets/image (1).png>) irá atrair os objetos na direç�
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-26.gif>)
 
-O modo ![](<../.gitbook/assets/image (58) (1).png>) move os objetos em direções aleatórias.
+O modo ![](<../.gitbook/assets/image (58) (1) (1).png>) move os objetos em direções aleatórias.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-29.gif>)
 
@@ -62,7 +62,7 @@ O modo ![](<../.gitbook/assets/image (40) (1) (1).png>) desfoca os objetos.
 
 Os próximos modos funcionam melhor em objetos grandes ou com um grande número de nós. Ainda que um objeto seja grande, mas tenha apenas 4 nós (como um retângulo), isso não será suficiente para que a ferramenta funcione perfeitamente. No exemplo a seguir usamos um retângulo em que adicionar vários nós intermediários.
 
-O modo ![](<../.gitbook/assets/image (33) (1) (1).png>) permite empurrar as bordas dos objetos:
+O modo ![](<../.gitbook/assets/image (33) (1) (1) (1).png>) permite empurrar as bordas dos objetos:
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-56.gif>)
 

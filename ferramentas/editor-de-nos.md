@@ -28,11 +28,11 @@ O uso da ferramenta basicamente consiste em, após ativada, clicar sobre um ou m
 Nós podem ser selecionados com muitas das mesmas interações da ferramenta [Seletor](seletor.md).
 {% endhint %}
 
-Indo para a barra de controle da ferramenta, temos os primeiros dos botões![](<../.gitbook/assets/image (38).png>) que permitem criar novos nós entre os nós selecionados e excluir nós selecionados.
+Indo para a barra de controle da ferramenta, temos os primeiros dos botões![](<../.gitbook/assets/image (38) (1).png>) que permitem criar novos nós entre os nós selecionados e excluir nós selecionados.
 
 ![](<../.gitbook/assets/Peek 02-07-2022 23-25.gif>)
 
-O próximo botão ![](<../.gitbook/assets/image (33) (1).png>)permite unificar dois nós, ainda que sejam de objetos diferentes.
+O próximo botão ![](<../.gitbook/assets/image (33) (1) (1).png>)permite unificar dois nós, ainda que sejam de objetos diferentes.
 
 ![](<../.gitbook/assets/Peek 03-07-2022 00-04.gif>)![](<../.gitbook/assets/Peek 03-07-2022 00-06.gif>)
 
@@ -62,7 +62,7 @@ Os botões seguites ![](<../.gitbook/assets/image (17).png>) permitem converter 
 
 
 
-Os botões ![](<../.gitbook/assets/image (2) (1).png>) permitem converter uma forma (círculos, retângulos, etc.) em caminhos simples, e converter contornos em caminhos. Logo em seguida, é possível ver um campo de posicionamento manual do nó e sua unidade de medida: ![](<../.gitbook/assets/image (21).png>)
+Os botões ![](<../.gitbook/assets/image (2) (1).png>) permitem converter uma forma (círculos, retângulos, etc.) em caminhos simples, e converter contornos em caminhos. Logo em seguida, é possível ver um campo de posicionamento manual do nó e sua unidade de medida: ![](<../.gitbook/assets/image (21) (1).png>)
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-50.gif>)![](<../.gitbook/assets/Peek 03-07-2022 01-51.gif>)
 

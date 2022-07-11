@@ -6,7 +6,7 @@ Atalho: \[ Shit ] + \[ E ]
 
 
 
-![](<../.gitbook/assets/image (52) (1) (1).png>)
+![](<../.gitbook/assets/image (52) (1) (1) (1).png>)
 
 A ferramenta Borracha permite apagar desenhos de diversas formas. Note pode delimintar a ferramenta selecionando os objetos que deseja afetar ou deixar sem seleção para que ela afeta todos os objetos por que passar. O primeiro modificador da barra de controle determina que todos objetos perpassados pela linha criada pela ferramenta serão excluídos.
 

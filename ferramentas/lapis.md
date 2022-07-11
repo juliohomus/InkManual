@@ -16,11 +16,11 @@ Sem ativar a sensibilidade à pressão, vamos ter outras opções na barra de co
 Usar uma suavização maior diminui o número de nós. Você também pode usar o menu **Caminho → Simplificar** (Atalho Ctrl + L) para diminuir o número de nós.
 {% endhint %}
 
-_Suavização_ repete a mesma função de suavizar a precisão do traço, mas com a ajuda adicional do botão seguinte ![](<../.gitbook/assets/image (33).png>), você poderá modificar a suavidade interativamente. O botão à esquerda irá "fixar" o valor definido e você não poderá mais modificá-la.
+_Suavização_ repete a mesma função de suavizar a precisão do traço, mas com a ajuda adicional do botão seguinte ![](<../.gitbook/assets/image (33) (1).png>), você poderá modificar a suavidade interativamente. O botão à esquerda irá "fixar" o valor definido e você não poderá mais modificá-la.
 
 ![](<../.gitbook/assets/Peek 06-07-2022 03-31.gif>)
 
-![](<../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (9) (1) (1).png>)
 
 Por fim, temos o campo Forma, onde você pode selecionar pinceis predefinidos ou usar um objeto criado para isso. As opções predefinidas são: _Nenhum,_ para um traço simples; _Entrada triangular_ e _Saída triangular,_ onde o pincel terá a forma de um triângulo nas direções indicadas; _Elipse,_ terá um formato circular; __&#x20;
 
