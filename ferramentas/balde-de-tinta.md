@@ -2,7 +2,7 @@
 
 A ferramenta Balde de tinta emula o efeito de preenchimento. A diferença aqui é que o preenchimento é na verdade um novo objeto.
 
-![](<../.gitbook/assets/image (59).png>)
+![](<../.gitbook/assets/image (59) (1).png>)
 
 O uso básico da ferramenta consiste em clicar sobre qualquer área do desenho que esteja de alguma forma confinada. A ferramenta não pode preencher áreas que não tenham confinamento.
 
