@@ -92,7 +92,7 @@ Cria uma espécie de clone do objeto com o qual se manterá um vínculo no seu f
 
 #### Preencher entre caminhos
 
-É, na verdade, um [efeito de caminho](../efeitos-de-caminho-lpes/). Ele irá preencher o espaço vazio entre dois caminhos com um novo objeto. Após realizar a operação, você pode [converter em caminho](./#undefined) para desvincular os objetos. A parte que será preenchida será aquela entre nós sem caminho.
+É, na verdade, um [efeito de caminho](efeitos-de-caminho-lpes/). Ele irá preencher o espaço vazio entre dois caminhos com um novo objeto. Após realizar a operação, você pode [converter em caminho](./#undefined) para desvincular os objetos. A parte que será preenchida será aquela entre nós sem caminho.
 
 ![](<../.gitbook/assets/image (34).png>)
 

@@ -4,7 +4,7 @@
 Atalho para exibir ou ocultar: Shift + Alt + P
 {% endhint %}
 
-![](<.gitbook/assets/image (60).png>)
+![](<.gitbook/assets/image (60) (1).png>)
 
 A _paleta de cores_ permite visualizar uma seleção de cores que podem ser usadas para preenchimento, contorno, etc. Ao selecionar um objeto, um clique com o botão esquerdo sobre uma cor irá defini-la como preenchimento. Shift + clique irá definir a cor como contorno. Também é possível arrastar uma cor e soltar sobre um objeto para mudar seu preenchimento ou contorno também usando Shift.
 
@@ -42,7 +42,7 @@ Note, por fim, que ao selecionar um gradiente para um objeto, o gradiente não t
 
 Para criar paletas de cores, basta criar um novo arquivo com objetos nas cores que você quer usar e salvá-lo como um arquivo .gpl (Paleta do GIMP) dentro da pasta indicada na janela de Configuração. Você poderá encontrar o caminho dentro de Sistema, Paletas do usuário. Basta então reiniciar o programa e ela estará disponível na seleção de paletas.&#x20;
 
-![](<.gitbook/assets/image (55).png>)
+![](<.gitbook/assets/image (55) (1).png>)
 
 ### Recursos adicionais
 

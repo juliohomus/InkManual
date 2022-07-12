@@ -70,7 +70,7 @@ Os botões seguintes, ![](<../.gitbook/assets/image (16) (1).png>) permitem ajus
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-58.gif>)![](<../.gitbook/assets/Peek 03-07-2022 02-03.gif>)
 
-O botão ![](<../.gitbook/assets/image (32).png>) irá mostrar o parâmetro editável de um [efeito de caminho](../efeitos-de-caminho-lpes/) ativo. No caso abaixo, tínhamos o efeito de caminho Curva, onde podemos editá-lo sem precisar abrir o painel de Efeitos de Caminho. O botão ![](<../.gitbook/assets/image (48).png>) permite ver o contorno do objeto original sem o efeito de caminho.
+O botão ![](<../.gitbook/assets/image (32).png>) irá mostrar o parâmetro editável de um [efeito de caminho](../caminho/efeitos-de-caminho-lpes/) ativo. No caso abaixo, tínhamos o efeito de caminho Curva, onde podemos editá-lo sem precisar abrir o painel de Efeitos de Caminho. O botão ![](<../.gitbook/assets/image (48).png>) permite ver o contorno do objeto original sem o efeito de caminho.
 
 ![](<../.gitbook/assets/Peek 03-07-2022 02-08.gif>)![](<../.gitbook/assets/Peek 03-07-2022 02-12.gif>)
 

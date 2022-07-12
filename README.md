@@ -19,3 +19,7 @@ Atalhos indicados com :arrow\_up: funcionam em qualquer ferramenta ativada.
 Licença: MIT
 
 Todos os recursos utilizados são de nossa própria autoria ou estão em domínio público.
+
+#### Notas de terminologia <a href="#_heu93d7cpg0f" id="_heu93d7cpg0f"></a>
+
+Raster image ou bitmap = bitmap ou _imagem matricial_.
