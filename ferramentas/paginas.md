@@ -14,7 +14,7 @@ A área seguinte ![](https://lh5.googleusercontent.com/HrcsMBmKzlIXcCbcbnrYS5d1f
 
 Você também pode clicar com o botão direito do mouse sobre uma página para exibir um menu de contexto.
 
-![](<../.gitbook/assets/image (54) (1).png>)
+![](<../.gitbook/assets/image (54) (1) (1).png>)
 
 \
 Nomear suas páginas pode ser útil para identificá-la no [Editor XML](../paineis/editor-xml.md), uma ferramenta avançada que pode ser útil para fazer modificações mais rápidas ou solucionar problemas. Aqui você pode, por exemplo, selecionar e reposicionar uma página de forma mais rápida.&#x20;

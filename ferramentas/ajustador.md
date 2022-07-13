@@ -52,7 +52,7 @@ Lembre de desvincular seus clones, se estiver usando.&#x20;
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-42.gif>)
 
-O modo ![](<../.gitbook/assets/image (56).png>) vibra as cores já existentes nos objetos.
+O modo ![](<../.gitbook/assets/image (56) (1).png>) vibra as cores já existentes nos objetos.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-49.gif>)
 
@@ -70,6 +70,6 @@ O modo ![](<../.gitbook/assets/image (2) (1) (1).png>) permite encolher as borda
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-57.gif>)
 
-O modo ![](<../.gitbook/assets/image (3).png>) torna as bordas de um objeto ásperas.
+O modo ![](<../.gitbook/assets/image (3) (1).png>) torna as bordas de um objeto ásperas.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-59.gif>)

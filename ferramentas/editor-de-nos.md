@@ -66,7 +66,7 @@ Os botões ![](<../.gitbook/assets/image (2) (1).png>) permitem converter uma fo
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-50.gif>)![](<../.gitbook/assets/Peek 03-07-2022 01-51.gif>)
 
-Os botões seguintes, ![](<../.gitbook/assets/image (16) (1).png>) permitem ajustar a visibilidade dos contornos dos objetos usados como recorte e máscara.&#x20;
+Os botões seguintes, ![](<../.gitbook/assets/image (16) (1) (1).png>) permitem ajustar a visibilidade dos contornos dos objetos usados como recorte e máscara.&#x20;
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-58.gif>)![](<../.gitbook/assets/Peek 03-07-2022 02-03.gif>)
 

@@ -44,7 +44,7 @@ Irá encontrar a intersecção entre os objetos selecionados. Neste caso, não i
 
 A exclusão irá remover a área comum entre dois objetos. Essa operação não pode ser feita entre múltiplos objetos, logo, ao se selecionar vários objetos, o resultado não será a exclusão da área comum de todos objetos, mas sim de cada operação sucessiva.
 
-![](<../.gitbook/assets/image (43).png>)
+![](<../.gitbook/assets/image (43) (1).png>)
 
 #### Divisão
 
@@ -62,7 +62,7 @@ irá realizar um processo parecido com a divisão, a diferença aqui é que o re
 
 Combinar irá realizar a mesma função que [união](./#uniao), mas preservará os caminhos. Pode ser aplicada a múltiplos objetos.
 
-![](<../.gitbook/assets/image (54).png>)
+![](<../.gitbook/assets/image (54) (1).png>)
 
 #### Separar
 
