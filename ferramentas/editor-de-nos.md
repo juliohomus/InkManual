@@ -56,7 +56,7 @@ Note que ao criar nós com a [Caneta Bézier](caneta-bezier.md) apenas criando p
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-29.gif>)
 
-Os botões seguites ![](<../.gitbook/assets/image (17).png>) permitem converter o segmento entre dois nós em uma linha reta ou em uma curva. A primeira vista, eles podem parecer uma redundância dos botões anteriores. Mas a diferença é que ao eles permitem realizar suas operações sem afetar o caminho anterior.
+Os botões seguites ![](<../.gitbook/assets/image (17) (1).png>) permitem converter o segmento entre dois nós em uma linha reta ou em uma curva. A primeira vista, eles podem parecer uma redundância dos botões anteriores. Mas a diferença é que ao eles permitem realizar suas operações sem afetar o caminho anterior.
 
 ![](<../.gitbook/assets/Peek 03-07-2022 10-34.gif>)![](<../.gitbook/assets/Peek 03-07-2022 10-36 (1).gif>)
 

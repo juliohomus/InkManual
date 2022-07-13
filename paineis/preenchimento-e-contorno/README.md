@@ -6,4 +6,4 @@ s aba de preenchimento e a aba de contorno têm exatamente as mesmas funções, 
 
 
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)

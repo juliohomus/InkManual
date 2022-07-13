@@ -46,7 +46,7 @@ O botão ![](<../.gitbook/assets/image (41) (1) (1).png>) costuma ser confundido
 
 ![](<../.gitbook/assets/Peek 23-06-2022 03-40.gif>)
 
-O botão seguinte ![](<../.gitbook/assets/image (17) (1) (1).png>) evita que objetos se sobreponham. O _deslocamento_ altera a distância que os objetos tentarão manter uns dos outros.&#x20;
+O botão seguinte ![](<../.gitbook/assets/image (17) (1) (1) (1).png>) evita que objetos se sobreponham. O _deslocamento_ altera a distância que os objetos tentarão manter uns dos outros.&#x20;
 
 ![](<../.gitbook/assets/Peek 23-06-2022 02-58.gif>)
 

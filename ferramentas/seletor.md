@@ -10,7 +10,7 @@ A ferramenta seletor permite várias operações de seleção e transformação 
 
 ![](../.gitbook/assets/1)
 
-Seguindo a ordem da barra de controle nós temos, ![](<../.gitbook/assets/image (49) (1).png>) **\[Crtl + A]** seleciona todos os objetos apenas na [camada](../paineis/camadas-e-objetos.md) atual. ![](<../.gitbook/assets/image (45) (1).png>) **\[Crtl + Shift + A]** Permite selecionar todos os objetos de todas as camadas [visíveis e não bloqueadas](../paineis/camadas-e-objetos.md#visivel-e-bloqueado). ![](<../.gitbook/assets/image (17) (1).png>)**\[Esc]** irá desfazer a seleção atual. Também é possível inverter a seleção atual com o atalho **\[!].**  Ainda é possível usar o atalho **\[Alt + Click]** para selecionar sucessivamente o objeto abaixo ou **\[Alt + girar a roda do mouse]** para navegar entre os objetos abaixo do ponteiro do mouse.
+Seguindo a ordem da barra de controle nós temos, ![](<../.gitbook/assets/image (49) (1).png>) **\[Crtl + A]** seleciona todos os objetos apenas na [camada](../paineis/camadas-e-objetos.md) atual. ![](<../.gitbook/assets/image (45) (1).png>) **\[Crtl + Shift + A]** Permite selecionar todos os objetos de todas as camadas [visíveis e não bloqueadas](../paineis/camadas-e-objetos.md#visivel-e-bloqueado). ![](<../.gitbook/assets/image (17) (1) (1).png>)**\[Esc]** irá desfazer a seleção atual. Também é possível inverter a seleção atual com o atalho **\[!].**  Ainda é possível usar o atalho **\[Alt + Click]** para selecionar sucessivamente o objeto abaixo ou **\[Alt + girar a roda do mouse]** para navegar entre os objetos abaixo do ponteiro do mouse.
 
 ![](<../.gitbook/assets/Peek 01-07-2022 14-40.gif>)
 

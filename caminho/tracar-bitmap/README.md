@@ -74,3 +74,18 @@ Este modo permite traçar a partir da mudança de cor, independente do brilho ou
 
 ![](<../../.gitbook/assets/image (27).png>)
 
+### Traçar automaticamente
+
+
+
+### Traçado de linha central&#x20;
+
+Este modo permite permite criar linhas nos pontos centrais de contraste. Na prática, ele serve especialmente para vetorizar qualquer coisa que seja bem definida como uma linha.&#x20;
+
+![](<../../.gitbook/assets/image (17).png>)
+
+
+
+
+
+![](<../../.gitbook/assets/image (4).png>)
