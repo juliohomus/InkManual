@@ -20,7 +20,7 @@ Seguindo a ordem da barra de controle nós temos, ![](<../.gitbook/assets/image 
 
 Os botões seguintes ![](<../.gitbook/assets/image (36) (1) (1).png>) permitem girar em 90º para a esquerda e direita; inverter verticalmente e horizontalmente.&#x20;
 
-A seguir temos os botões de posição ![](<../.gitbook/assets/image (27).png>). Na ordem, trazer o objeto selecionado para frente de todos os objetos; elevar a oposição do objeto em um nível; reduzir a posição do objeto em um nivel; trazer o objeto para trás.
+A seguir temos os botões de posição ![](<../.gitbook/assets/image (27) (1).png>). Na ordem, trazer o objeto selecionado para frente de todos os objetos; elevar a oposição do objeto em um nível; reduzir a posição do objeto em um nivel; trazer o objeto para trás.
 
 {% hint style="info" %}
 Note que ao elevar ou reduzir um nível para uma seleção de vários objetos, cada um será reposicionado segundo sua posição anterior. A confiná-los em um grupo, eles então estarão na mesma posição relativa aos outros objetos.
@@ -30,7 +30,7 @@ Note que ao elevar ou reduzir um nível para uma seleção de vários objetos, c
 
 As opções seguintes (imagem acima) permitem alterar a posição do objeto no canvas, determinado pelos campos X e Y. Os campos L e A determinam Largura e altura do objeto. O cadeado no centro permite alterar as dimensões proporcionalmente. A última caixa permite alterar a unidade de medida.
 
-Seguindo, temos o modificador ![](<../.gitbook/assets/image (37) (1).png>) altera como o contorno é redimensionado junto com o objeto. Se desativado, o contorno permanecerá no seu tamanho original.
+Seguindo, temos o modificador ![](<../.gitbook/assets/image (37) (1) (1).png>) altera como o contorno é redimensionado junto com o objeto. Se desativado, o contorno permanecerá no seu tamanho original.
 
 ![](<../.gitbook/assets/Peek 01-07-2022 14-03.gif>)
 

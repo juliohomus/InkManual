@@ -10,7 +10,13 @@ A velocidade da vetorização dependerá do tamanho da imagem. Para reduzir o ta
 
 !['Traçar bitmap' abre por padrão como um painel. Desacoplamos apenas para melhor visualização.](<../../.gitbook/assets/image (55).png>)
 
-Na interface, nós temos abas para diferentes formas de vetorização. O primeiro, varredura única, irá produzir um único caminho para toda a figura. Multicolorido irá produzir vários caminhos para as diferentes varreduras usadas para gerar o desenho vetorial. Por fim, <mark style="color:red;">pixel art</mark>.
+Na interface, nós temos abas para diferentes formas de vetorização. O primeiro, varredura única, irá produzir um único caminho para toda a figura. Multicolorido irá produzir vários caminhos para as diferentes varreduras usadas para gerar o desenho vetorial. Por fim, Pixel art serve para vetorizar imagens no estilo pixel art.&#x20;
+
+Além disto, temos uma áre de pré-visualização, com as opções de habilitar atualização automática e um botão para atualização manual. Considerando o tamanho da imagem, você pode preferir desativar a atualização automática para reduzir a lentidão do processamento.
+
+## Varredura única&#x20;
+
+### Corte de brilho
 
 #### Limiar
 
@@ -52,9 +58,19 @@ Permite traçar apenas objetos dentro de uma imagem. Para isto, basta cobrir o o
 
 ![](<../../.gitbook/assets/image (46).png>)
 
+### Detecção de bordas
 
+Detecção de bordas basicamente irá identificar áreas de contraste (bordas) na imagem. No exemplo abaixo, temos a primeira versão à direita da imagem original usando [corte de brilho](./#corte-de-brilho), logo em seguida temos a versão com _detecção de bordas_. &#x20;
 
+![](<../../.gitbook/assets/image (37).png>)
 
+Este modo tem apenas uma preferência, o _Limite de borda_, que considerará o nível de contraste entre os objetos. Quanto maior for, maior terá que ser o contraste entre os objetos para o traço. Todas as outras preferências as mesmas do modo anterior.
 
+![](<../../.gitbook/assets/image (21).png>)
 
+### Quantidade de cores
+
+Este modo permite traçar a partir da mudança de cor, independente do brilho ou contraste. Possuindo apenas uma única preferência exclusiva para selecionar o número de _Cores_ usadas no cálculo do processamento da imagem. Note que, no exemplo abaixo, o valor padrão (que é 8) gerou uma imagem "invertida", onde os traços do pássaro eram o recorte do plano de fundo, isto se deve justamente pela forma como o cálculo do limiar entre cores é feito, ao subir o número de cores para 18, temos um resultado mais próximo da melhor traço dentro deste modo.
+
+![](<../../.gitbook/assets/image (27).png>)
 
