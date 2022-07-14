@@ -2,7 +2,7 @@
 
 A barra de status fica na parte debaixo da interfacec e agrega informações sobre diversos elementos da própria interface e do arquivo.
 
-A primeira informação disponível é o Preenchimento, Contorno e espessura do contorno. Na imagem abaixo, por exemplo, temos a indicação de um objeto com preenchimento gradiente vermelho Linear, contorno verde de 0,5mm.
+A primeira informação disponível é o Preenchimento, Contorno e espessura do contorno. Na imagem abaixo, por exemplo, temos a indicação de um objeto com preenchimento gradiente vermelho Linear, contorno verde de 0,5mm. Embora não indique a unidade de medida, ela pode ser verificada e alterada clicando com o botão direito do mouse sobre o valor.
 
 ![](<.gitbook/assets/image (4) (1) (1).png>)
 
