@@ -36,7 +36,7 @@ _Escala_ permite, assim como no modificador anterior, que cópias sejam feitas n
 
 _Dispersão_ e _foco_ alteram como os objetos são distribuídos pelo pulverizador. A diferença teoria entre eles é que dispersão determina o raio de distribuição das cópias, enquanto foco determina quão distantes do centro do raio as cópias estarão. Contudo, o efeito da dispersão praticamente anula o efeito criado pelo foco. No gif abaixo, ao aplicar dispersão zeramos o foco e vice-versa.&#x20;
 
-![](<../.gitbook/assets/image (50) (1) (1).png>)
+![](<../.gitbook/assets/image (50) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/Peek 23-06-2022 03-14.gif>)
 

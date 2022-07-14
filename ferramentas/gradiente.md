@@ -38,7 +38,7 @@ Para criar um ponto diretamente sobre o desenho do degradê, basta clicar duas v
 
 ![](<../.gitbook/assets/Peek 22-06-2022 02-14.gif>)
 
-Você também poderá editar gradientes diretamente no painel de [Preenchimento e contorno](../paineis/preenchimento-e-contorno/) que sintetiza todas as funções que apresentamos anteriormente com uma extra funcionalidade que é alternar a transparência de cada ponto individualmente.&#x20;
+Você também poderá editar gradientes diretamente no painel de [Preenchimento e contorno](../paineis/preenchimento-e-contorno.md) que sintetiza todas as funções que apresentamos anteriormente com uma extra funcionalidade que é alternar a transparência de cada ponto individualmente.&#x20;
 
 ![](../.gitbook/assets/image.png)
 

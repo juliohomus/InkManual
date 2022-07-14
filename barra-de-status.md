@@ -6,7 +6,7 @@ A primeira informação disponível é o Preenchimento, Contorno e espessura do 
 
 ![](<.gitbook/assets/image (4) (1) (1).png>)
 
-O próximo campo determina a transparência global do objeto, assim como disponível no painel de [Preenchimento e contorno](paineis/preenchimento-e-contorno/).&#x20;
+O próximo campo determina a transparência global do objeto, assim como disponível no painel de [Preenchimento e contorno](paineis/preenchimento-e-contorno.md).&#x20;
 
 ![](<.gitbook/assets/image (19).png>)
 
