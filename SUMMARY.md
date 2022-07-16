@@ -74,3 +74,5 @@
 * [🔴 Paleta de Cores](paleta-de-cores.md)
 * [🔴 Menu Editar](menu-editar.md)
 * [🔴 Importar](importar.md)
+* [Objeto](objeto/README.md)
+  * [Padrões de preenchimento](objeto/padroes-de-preenchimento.md)

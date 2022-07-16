@@ -4,6 +4,8 @@ Este painel concentra todos as preferências para preenchimento e contorno.&#x20
 
 ![](<../.gitbook/assets/image (50).png>)
 
+Existem alguns elementos que são comuns para todos ou quase todos os modos. A _roda de cores_ apresenta as cores num arco do espectro de cores com um trigângulo no centro para a saturação de cada&#x20;
+
 ## Preenchimento & Contorno
 
 {% hint style="info" %}
@@ -12,11 +14,13 @@ As abas de preenchimento e contorno têm exatamente os mesmos modos.
 
 ![](<../.gitbook/assets/image (5).png>)
 
-No topo do painel ficam os modos de preenchimento e contorno. Sólido irá aplicar uma cor uniforme, gradiente linear produzirá um gradiente numa direção contínua, gradiente radial dispõe o gradiente em círculos, malha de gradiente permite criar gradientes mais complexos com múltiplos eixos e direções, por fim, temos a
+No topo do painel ficam os modos de preenchimento e contorno. _Cor uniforme_ (sólida) __ irá aplicar uma cor homogênea, _gradiente linear_ produzirá um gradiente numa direção contínua, _gradiente radial_ dispõe o gradiente em círculos, _malha de gradiente_ permite criar gradientes mais complexos com múltiplos eixos e direções, por fim, temos o preenchimento por padrão.
 
 ![](<../.gitbook/assets/image (4).png>)
 
-Cor uniforme
+### Cor uniforme
+
+
 
 
 
