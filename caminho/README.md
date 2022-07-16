@@ -24,7 +24,7 @@ Permite converter um contorno em caminho. Se o objeto já tiver um preenchimento
 
 #### União&#x20;
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (30) (1).png>)
 
 A operação de união permite unir os caminhos de vários objetos em um único objeto. Caminhos sobrepostos serão "unidos" dentro do mesmo caminho.
 
@@ -94,7 +94,7 @@ Cria uma espécie de clone do objeto com o qual se manterá um vínculo no seu f
 
 É, na verdade, um [efeito de caminho](efeitos-de-caminho-lpes/). Ele irá preencher o espaço vazio entre dois caminhos com um novo objeto. Após realizar a operação, você pode [converter em caminho](./#undefined) para desvincular os objetos. A parte que será preenchida será aquela entre nós sem caminho.
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)
 
 #### Simplificar
 
