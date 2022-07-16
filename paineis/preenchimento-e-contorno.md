@@ -6,9 +6,17 @@ Este painel concentra todos as preferências para preenchimento e contorno.&#x20
 
 ## Preenchimento & Contorno
 
+{% hint style="info" %}
 As abas de preenchimento e contorno têm exatamente os mesmos modos.
+{% endhint %}
 
 ![](<../.gitbook/assets/image (5).png>)
+
+Os modos de preenchimento e controle&#x20;
+
+
+
+Cor uniforme
 
 
 
