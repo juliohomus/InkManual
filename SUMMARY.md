@@ -38,6 +38,7 @@
   * [🟡 Camadas e Objetos](paineis/camadas-e-objetos.md)
   * [🔴 Preenchimento e contorno](paineis/preenchimento-e-contorno.md)
   * [🔴 Editor XML](paineis/editor-xml.md)
+* [Símbolo](simbolo.md)
 * [Filtros](filtros/README.md)
   * [Bordas](filtros/bordas.md)
   * [Chanfros](filtros/chanfros.md)

@@ -24,7 +24,7 @@ Ao selecionar uma ferramenta, no caso do [editor de nós](ferramentas/editor-de-
 
 Em seguida temos o indicador de página, onde é possível navegar entre as páginas do arquivo.
 
-![](<.gitbook/assets/image (28).png>)
+![](<.gitbook/assets/image (28) (1).png>)
 
 O campo seguinte indica a posição x, y do cursor no canvas.
 
