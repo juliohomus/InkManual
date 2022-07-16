@@ -12,9 +12,9 @@ As abas de preenchimento e contorno têm exatamente os mesmos modos.
 
 ![](<../.gitbook/assets/image (5).png>)
 
-Os modos de preenchimento e controle&#x20;
+No topo do painel ficam os modos de preenchimento e contorno. Sólido irá aplicar uma cor uniforme, gradiente linear produzirá um gradiente numa direção contínua, gradiente radial dispõe o gradiente em círculos, malha de gradiente permite criar gradientes mais complexos com múltiplos eixos e direções, por fim, temos a
 
-
+![](<../.gitbook/assets/image (4).png>)
 
 Cor uniforme
 

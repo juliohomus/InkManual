@@ -63,7 +63,7 @@
   * [Criando Diagramas](tecnicas/criando-diagramas.md)
   * [Técnicas de Gradiente](tecnicas/tecnicas-de-gradiente.md)
   * [Desenho isométrico](tecnicas/desenho-isometrico.md)
-* [Configurações de Atração](configuracoes-de-atracao.md)
+* [🔴 Configurações de Atração](configuracoes-de-atracao.md)
 * [Caminho](caminho/README.md)
   * [Traçar Bitmap](caminho/tracar-bitmap/README.md)
     * [Exemplos de uso](caminho/tracar-bitmap/exemplos-de-uso.md)

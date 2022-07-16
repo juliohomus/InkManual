@@ -1,2 +1,2 @@
-# Configurações de Atração
+# 🔴 Configurações de Atração
 

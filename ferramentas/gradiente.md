@@ -4,7 +4,7 @@
 Atalho: \[ G ]
 {% endhint %}
 
-![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
 
 A ferramenta gradiente permite criar gradientes lineares ou radiais par preenchimento ou contorno. Para criar um degradê, apenas selecione um ou mais objetos e selecione a ferramenta, daí clique para criar uma linha e ver em tempo real a posição do degradê. Para modificar essa distribuição do degradê, basta arrastar as alças visíveis sobre o objeto em questão.
 

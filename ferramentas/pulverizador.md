@@ -22,7 +22,7 @@ A barra de controle da ferramenta tem 4 modificadores principais. O primeiro cri
 
 Os próximos modificadores são:
 
-![](<../.gitbook/assets/image (59) (1) (1).png>)
+![](<../.gitbook/assets/image (59) (1) (1) (1).png>)
 
 _Largura_ define a largura da área de aplicação do pulverizador. Ela não afeta o tamanho do objeto pulverizado, apenas a largura da área em que ele poderá ser aplicado. Ela é indicada pelo círculo laranja envolta do ponteiro da ferramenta.
 

@@ -34,7 +34,7 @@ Irá inverter o brilho. Na exemplo abaixo, temos uma imagem com fundo preto com 
 
 Permite ignorar pequenas manchas, pontilhados na imagem. No exemplo abaixo, temos a mesma imagem (esquerda) vetorizada com o mesmo nível de brilho, o primeiro resultado usa o valor '2' como já vem predefinido. O segundo resultado usa o valor máximo, apenas para ilustrar como os pequenos pontos são ignorados e o traçado é mais homogêneo.&#x20;
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (59) (1).png>)
 
 #### _Cantos suaves_
 
@@ -88,4 +88,4 @@ Este modo permite permite criar linhas nos pontos centrais de contraste. Na prá
 
 
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
