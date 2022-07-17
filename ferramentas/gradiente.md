@@ -8,7 +8,7 @@ Atalho: \[ G ]
 
 A ferramenta gradiente permite criar gradientes lineares ou radiais par preenchimento ou contorno. Para criar um degradê, apenas selecione um ou mais objetos e selecione a ferramenta, daí clique para criar uma linha e ver em tempo real a posição do degradê. Para modificar essa distribuição do degradê, basta arrastar as alças visíveis sobre o objeto em questão.
 
-![](<../.gitbook/assets/image (29) (1).png>)
+![](<../.gitbook/assets/image (29) (1) (1).png>)
 
 &#x20;Os dois primeiros modificadores da barra de controle alteram entre gradiente linear e radial, os dois seguintes alternam entre preenchimento e contorno. Você pode aplicar gradientes diferentes para preenchimento e contorno, como na imagem abaixo. Criamos um gradiente linear para preenchimento e um gradiente radial para contorno.
 

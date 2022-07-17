@@ -36,7 +36,7 @@ O próximo botão ![](<../.gitbook/assets/image (33) (1) (1).png>)permite unific
 
 ![](<../.gitbook/assets/Peek 03-07-2022 00-04.gif>)![](<../.gitbook/assets/Peek 03-07-2022 00-06.gif>)
 
-![](<../.gitbook/assets/image (29).png>) irá separar os nós selecionados de um caminho.
+![](<../.gitbook/assets/image (29) (1).png>) irá separar os nós selecionados de um caminho.
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-03.gif>)
 

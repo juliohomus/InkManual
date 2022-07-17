@@ -5,7 +5,7 @@ Traçar bitmap permite transformar imagens matriciais em vetores através de div
 Para usar a ferramenta, selecione uma imagem matricial [importada](../../importar.md) e então vá em Caminho → Traçar Bitmap. Por padrão, a funcionalidade já está pré configurada para vetorizar traços típicos de desenho sobre papel, o tipo de trabalho mais comum para quem trabalha com ilustração. Basta clicar em _Aplicar_ para que a versão vetorial seja criada sobre a imagem original.
 
 {% hint style="info" %}
-A velocidade da vetorização dependerá do tamanho da imagem. Para reduzir o tamanho de uma imagem dentro do Inkscape use [Criar cópia bitmap](../../menu-editar.md#criar-copia-bitmap). Mas lembre-se que ao reduzir uma imagem, você poderá estar perdendo informação e isso poderá reduzir a qualidade da vetorização.
+A velocidade da vetorização dependerá do tamanho da imagem. Para reduzir o tamanho de uma imagem dentro do Inkscape use [Criar cópia bitmap](../../menu-editar/#criar-copia-bitmap). Mas lembre-se que ao reduzir uma imagem, você poderá estar perdendo informação e isso poderá reduzir a qualidade da vetorização.
 {% endhint %}
 
 !['Traçar bitmap' abre por padrão como um painel. Desacoplamos apenas para melhor visualização.](<../../.gitbook/assets/image (55).png>)
@@ -48,7 +48,7 @@ Trata da forma como os traços serão suavizados. O ajuste dessa preferência po
 
 ![](<../../.gitbook/assets/image (56).png>)
 
-Você também poderá usar o menu [Caminho → Simplificar](../#simplificar) para reduzir ainda mais o número de nós. No exemplo abaixo, temos uma redução de 15.500 nós para 2.300. Evidentemente a perda de detalhes é bem maior. Lembre ainda que você [Criar um cópia Bitmap](../../menu-editar.md#criar-copia-bitmap) para reduzir o peso da imagem para o processamento.
+Você também poderá usar o menu [Caminho → Simplificar](../#simplificar) para reduzir ainda mais o número de nós. No exemplo abaixo, temos uma redução de 15.500 nós para 2.300. Evidentemente a perda de detalhes é bem maior. Lembre ainda que você [Criar um cópia Bitmap](../../menu-editar/#criar-copia-bitmap) para reduzir o peso da imagem para o processamento.
 
 ![](<../../.gitbook/assets/image (43).png>)
 
@@ -56,7 +56,7 @@ Você também poderá usar o menu [Caminho → Simplificar](../#simplificar) par
 
 Permite traçar apenas objetos dentro de uma imagem. Para isto, basta cobrir o objeto desejado com um caminho. A qualidade desta "separação" dependerá do contraste da imagem e do objeto sobreposto para criar o recorte. [Limiar](./#limiar) também pode ser ajustado para uma melhor definição da imagem. Essa função requer bastante processamento e poderá levar alguns segundos para processar imagens maiores.
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (46) (1).png>)
 
 ### Detecção de bordas
 
