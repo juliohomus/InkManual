@@ -72,7 +72,7 @@ Este modo tem apenas uma preferência, o _Limite de borda_, que considerará o n
 
 Este modo permite traçar a partir da mudança de cor, independente do brilho ou contraste. Possuindo apenas uma única preferência exclusiva para selecionar o número de _Cores_ usadas no cálculo do processamento da imagem. Note que, no exemplo abaixo, o valor padrão (que é 8) gerou uma imagem "invertida", onde os traços do pássaro eram o recorte do plano de fundo, isto se deve justamente pela forma como o cálculo do limiar entre cores é feito, ao subir o número de cores para 18, temos um resultado mais próximo da melhor traço dentro deste modo.
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)
 
 ### Traçar automaticamente
 
