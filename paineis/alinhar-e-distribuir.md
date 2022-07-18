@@ -1,3 +1,11 @@
 # 🔴 Alinhar e Distribuir
 
-![](https://lh6.googleusercontent.com/m3CIFx\_D2Fpz5EEzh0GSazMQ\_TCuveFHpivk7xIwuB0mcLdv8X-uGcAXTumRA25eq2makJ8guG9JShINaL3wzJMZWlN4eOAJ7s\_TeQgXGZDOFbQ\_gir7LsOPoIJH9PRZPPypkFiKaYfrQwEZ2g)
+{% hint style="info" %}
+Atalho: Shift + Ctrl + A
+{% endhint %}
+
+As opções de alinhamento do Inkscape são bastante avançadas e costumam confundir iniciantes, especialmente porque os alinhamentos são sempre _relativos_, ou seja, são sempre _**em relação a alguma coisa.**_
+
+![](<../.gitbook/assets/image (8).png>)
+
+No topo do painel temos as abas Alinhamento, Grade e Círculo&#x20;

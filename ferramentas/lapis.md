@@ -2,7 +2,7 @@
 
 A ferramenta lápis é uma daquelas que mais pode produzir resultados diferentes de acordo com os parâmetros utilizados. Sua função básica é criar traços, como de um lápis de verdade.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 As opções da barra de controle vão mudar completamente se ativada a sensibilidade para dispositivo de pressão. Vamos começar por ela, por ser relativamente mais simples. Note que se você não tiver um dispositivo de precisão, usando, por exemplo, apenas o mouse, o resultado será sempre uma linha uniforme.&#x20;
 
