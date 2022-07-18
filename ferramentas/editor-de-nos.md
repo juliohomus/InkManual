@@ -28,7 +28,7 @@ O uso da ferramenta basicamente consiste em, após ativada, clicar sobre um ou m
 Nós podem ser selecionados com muitas das mesmas interações da ferramenta [Seletor](seletor.md).
 {% endhint %}
 
-Indo para a barra de controle da ferramenta, temos os primeiros dos botões![](<../.gitbook/assets/image (38) (1).png>) que permitem criar novos nós entre os nós selecionados e excluir nós selecionados.
+Indo para a barra de controle da ferramenta, temos os primeiros dos botões![](<../.gitbook/assets/image (38) (1) (1).png>) que permitem criar novos nós entre os nós selecionados e excluir nós selecionados.
 
 ![](<../.gitbook/assets/Peek 02-07-2022 23-25.gif>)
 

@@ -20,7 +20,7 @@ Permite transformar um objeto especial em caminho. No exemplo abaixo, por exempl
 
 Permite converter um contorno em caminho. Se o objeto já tiver um preenchimento, contorno e preenchimento serão criados como objetos diferentes.
 
-![](<../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (38) (1).png>)
 
 #### União&#x20;
 

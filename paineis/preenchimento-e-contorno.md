@@ -55,3 +55,10 @@ Os dois últimos botões ![](<../.gitbook/assets/image (46).png>) alteram a form
 
 ## Estilo do contorno
 
+As opções de contorno afetam as linhas entre em nós. Esta aba permite sua personalização avançada.
+
+![](<../.gitbook/assets/image (38).png>)
+
+
+
+![](<../.gitbook/assets/image (53).png>)

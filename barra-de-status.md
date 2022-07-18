@@ -36,4 +36,4 @@ Temos então o campo de zoom, onde é possível ver o zoom atual e modificá-lo.
 
 Por fim, temos a rotação do canvas. Essa rotação é particularmente útil ao usar mesas digitalizadoras. Note que essa não é a rotação real do arquivo, mas apenas da sua visualização.
 
-![](<.gitbook/assets/image (53).png>)
+![](<.gitbook/assets/image (53) (1).png>)
