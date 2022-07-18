@@ -1,4 +1,4 @@
-# 🔴 Preenchimento e contorno
+# 🟡 Preenchimento e contorno
 
 Este painel concentra todos as preferências para preenchimento e contorno.&#x20;
 
@@ -59,6 +59,12 @@ As opções de contorno afetam as linhas entre em nós. Esta aba permite sua per
 
 ![](<../.gitbook/assets/image (38).png>)
 
-
+Seguindo a ordem, temos a opção de modificar a largura do contorno e a unidade de medida; depois temos o tipo de traço, o campo seguinte basicamente permite mover o traçado internamente; os marcadores são desenhos que podem ser colocados no contorno, voltaremos neles mais adiante; a junção determina como os cantos ou junções entre linhas retas serão tratados, com 3 formatos diferentes e um modificador para o último; extremidades podem ser rentes, arredondadas ou prolongadas; por fim, temos a ordem interna entre preenchimento, marcadores e contorno. Todas essas opções estão ilustradas abaixo.
 
 ![](<../.gitbook/assets/image (53).png>)
+
+Ao se clicar sobre os marcadores, temos um janela com os modelos disponíveis e algumas opções mais avançadas.
+
+![](<../.gitbook/assets/image (47).png>)
+
+LEMBRETE: falar sobre criação de marcadores.

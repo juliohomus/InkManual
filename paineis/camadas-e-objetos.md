@@ -14,7 +14,7 @@ O primeiro botão ![](<../.gitbook/assets/image (42) (1) (1).png>) permite mudar
 
 No primeiro campo você poderá inserir um nome arbitrário para a camada. _Disposição_ define a posição da camada na árvore de camadas, Acima da atual, Abaixo da atual e subcamada da atual onde a camada será criada dentro da camada atualmente selecionada.
 
-Os últimos botões permitem ![](<../.gitbook/assets/image (12) (1).png>) mover camada selecionada apra cima, ![](<../.gitbook/assets/image (30) (1) (1).png>) mover camada selecionada para baixo e ![](<../.gitbook/assets/image (47) (1).png>) excluir a camada selecionada.
+Os últimos botões permitem ![](<../.gitbook/assets/image (12) (1).png>) mover camada selecionada apra cima, ![](<../.gitbook/assets/image (30) (1) (1).png>) mover camada selecionada para baixo e ![](<../.gitbook/assets/image (47) (1) (1).png>) excluir a camada selecionada.
 
 Na árvore do painel são exibidos todos os elementos do arquido dentro da sua hierarquia. Note que apesar do ícone da camada indicar uma "página", as páginas criadas com a ferramenta [Páginas](../ferramentas/paginas.md) não aparecem dentro desse painel e não possuem posição na hierarquia. Objetos não são vinculados à páginas.&#x20;
 

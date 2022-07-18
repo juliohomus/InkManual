@@ -26,7 +26,7 @@ Amostras de cores ou _swatches,_ como é chamada em inglês, é uma paleta criad
 
 Para criar uma amostra, apenas criei e/ou selecione um objeto que já tem a cor que você deseja usar. Abra o painel de [Preenchimento e contorno](paineis/preenchimento-e-contorno.md), e clique sobre o botão _amostra_ ![](<.gitbook/assets/image (10) (1).png>). A cor ou gradiente será automaticamente inserida nas _Amostras de cores_.
 
-![](<.gitbook/assets/image (47).png>)
+![](<.gitbook/assets/image (47) (1).png>)
 
 Note que o comportamento padrão do botão _amostra_ é inserir a cor do objeto nas _Amostras de cores_. Se você selecionar um outro objeto, com uma outra cor, ela será adicionada como amostra. Se você quer apenas selecionar uma cor, deve usar o painel _Amostras de cores_.
 

@@ -36,7 +36,7 @@
 * [Painéis](paineis/README.md)
   * [🔴 Alinhar e Distribuir](paineis/alinhar-e-distribuir.md)
   * [🟡 Camadas e Objetos](paineis/camadas-e-objetos.md)
-  * [🔴 Preenchimento e contorno](paineis/preenchimento-e-contorno.md)
+  * [🟡 Preenchimento e contorno](paineis/preenchimento-e-contorno.md)
   * [🔴 Editor XML](paineis/editor-xml.md)
   * [Símbolo](paineis/simbolo.md)
 * [Filtros](filtros/README.md)
