@@ -66,7 +66,7 @@ Detecção de bordas basicamente irá identificar áreas de contraste (bordas) n
 
 Este modo tem apenas uma preferência, o _Limite de borda_, que considerará o nível de contraste entre os objetos. Quanto maior for, maior terá que ser o contraste entre os objetos para o traço. Todas as outras preferências as mesmas do modo anterior.
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)
 
 ### Quantidade de cores
 

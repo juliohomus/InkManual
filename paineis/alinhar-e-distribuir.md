@@ -9,3 +9,6 @@ As opções de alinhamento do Inkscape são bastante avançadas e costumam confu
 ![](<../.gitbook/assets/image (8).png>)
 
 No topo do painel temos as abas Alinhamento, Grade e Círculo&#x20;
+
+A primeira opção ![](<../.gitbook/assets/image (21).png>) permite exibir alças de alinhamento com um terceiro clique.&#x20;
+

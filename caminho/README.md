@@ -68,7 +68,7 @@ Combinar irá realizar a mesma função que [união](./#uniao), mas preservará 
 
 Essa função permite separar caminhos em objetos distintos que foram combinados com a função anterior. Pode ser aplicada a múltiplos objetos.
 
-![](<../.gitbook/assets/image (21) (1).png>)
+![](<../.gitbook/assets/image (21) (1) (1).png>)
 
 #### Dividir caminho
 

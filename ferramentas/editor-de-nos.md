@@ -62,7 +62,7 @@ Os botões seguites ![](<../.gitbook/assets/image (17) (1).png>) permitem conver
 
 
 
-Os botões ![](<../.gitbook/assets/image (2) (1).png>) permitem converter uma forma (círculos, retângulos, etc.) em caminhos simples, e converter contornos em caminhos. Logo em seguida, é possível ver um campo de posicionamento manual do nó e sua unidade de medida: ![](<../.gitbook/assets/image (21) (1) (1).png>)
+Os botões ![](<../.gitbook/assets/image (2) (1).png>) permitem converter uma forma (círculos, retângulos, etc.) em caminhos simples, e converter contornos em caminhos. Logo em seguida, é possível ver um campo de posicionamento manual do nó e sua unidade de medida: ![](<../.gitbook/assets/image (21) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/Peek 03-07-2022 01-50.gif>)![](<../.gitbook/assets/Peek 03-07-2022 01-51.gif>)
 
