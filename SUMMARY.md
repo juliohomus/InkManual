@@ -46,7 +46,7 @@
     * [Colorizar](filtros/cor/colorizar.md)
   * [Desenho e pintura de Imagem](filtros/desenho-e-pintura-de-imagem.md)
   * [Desfoques](filtros/desfoques/README.md)
-    * [Desfoque](filtros/desfoques/desfoque.md)
+    * [🟢 Desfoque](filtros/desfoques/desfoque.md)
   * [Distorção](filtros/distorcao.md)
   * [Efeitos de imagem](filtros/efeitos-de-imagem.md)
   * [Espalhar](filtros/espalhar.md)
