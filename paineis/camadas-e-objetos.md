@@ -18,7 +18,7 @@ Os últimos botões permitem ![](<../.gitbook/assets/image (12) (1).png>) mover 
 
 Na árvore do painel são exibidos todos os elementos do arquido dentro da sua hierarquia. Note que apesar do ícone da camada indicar uma "página", as páginas criadas com a ferramenta [Páginas](../ferramentas/paginas.md) não aparecem dentro desse painel e não possuem posição na hierarquia. Objetos não são vinculados à páginas.&#x20;
 
-![Exemplo de alguns elementos dentro da hierarquia](<../.gitbook/assets/image (22).png>)
+![Exemplo de alguns elementos dentro da hierarquia](<../.gitbook/assets/image (22) (1).png>)
 
 {% hint style="info" %}
 Objectos só podem ser agrupados sob a mesma camada. Se eles estiverem espalhados entre diversas camadas, eles serão agregados na camada do primeiro objeto selecionado.
@@ -48,7 +48,7 @@ Existe na [barra de status](../barra-de-status.md) um indicador da camada atual.
 
 ### Menu  Camada
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (2).png>)
 
 O menu para Camada é bastante autoexplicativo, tendo só mais funções debtro daquilo que já abordamos.&#x20;
 

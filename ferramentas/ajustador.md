@@ -30,7 +30,7 @@ O modo ![](<../.gitbook/assets/image (58) (1) (1).png>) move os objetos em dire�
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-29.gif>)
 
-O modo ![](<../.gitbook/assets/image (15).png>) permite reduzir ou aumentar (pressionando Shift) os objetos.&#x20;
+O modo ![](<../.gitbook/assets/image (15) (1).png>) permite reduzir ou aumentar (pressionando Shift) os objetos.&#x20;
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-30.gif>)
 
@@ -70,6 +70,6 @@ O modo ![](<../.gitbook/assets/image (2) (1) (1).png>) permite encolher as borda
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-57.gif>)
 
-O modo ![](<../.gitbook/assets/image (3) (1).png>) torna as bordas de um objeto ásperas.
+O modo ![](<../.gitbook/assets/image (3) (1) (1).png>) torna as bordas de um objeto ásperas.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-59.gif>)
