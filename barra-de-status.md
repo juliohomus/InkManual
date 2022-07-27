@@ -20,7 +20,7 @@ O próximo campo é o mais importante e muitas vezes ignorado da barra de status
 
 Ao selecionar uma ferramenta, no caso do [editor de nós](ferramentas/editor-de-nos.md), ele exibe instruções de uso.
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (2).png>)
 
 Em seguida temos o indicador de página, onde é possível navegar entre as páginas do arquivo.
 

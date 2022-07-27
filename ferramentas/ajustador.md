@@ -22,7 +22,7 @@ O primeiro modo ![](<../.gitbook/assets/image (37) (1) (1) (1).png>) move objeto
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-24.gif>)
 
-O modo ![](<../.gitbook/assets/image (1).png>) irá atrair os objetos na direção do cursor.
+O modo ![](<../.gitbook/assets/image (1) (1).png>) irá atrair os objetos na direção do cursor.
 
 ![](<../.gitbook/assets/Peek 23-06-2022 04-26.gif>)
 

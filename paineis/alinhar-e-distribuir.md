@@ -14,13 +14,28 @@ A primeira opção ![](<../.gitbook/assets/image (21).png>) permite exibir alça
 
 ![](<../.gitbook/assets/Peek 21-07-2022 01-52.gif>)
 
-O botão seguinte ![](<../.gitbook/assets/image (2).png>) faz exatamente o que seu nome sugere, move os objetos da seleção como um grupo.
+O botão seguinte ![](<../.gitbook/assets/image (2) (1).png>) faz exatamente o que seu nome sugere, move os objetos da seleção como um grupo.
 
 Temos então a primeira área de alinhamento propriamente. O primeiro campo "Relativo a:" é essencial para entender como o alinhamento funciona, aqui se define quanto ao que os objetos selecionados serão alinhados.&#x20;
 
 ![](<../.gitbook/assets/image (59).png>)
 
-Podemos dividir então os botões de alinhamento entre posições internas e externas. Os botões dentro da área vermelha são para o alinhamento interno, isto é, os objetos ficarão dentro da referência. Os botões que estão fora da área vermelha são para alinhar fora da área de referência. Os botões no canto direito são para o alinhamento da linh base do texto, no sentido vertical ou horizontal. Como os próprios ícones ilustram, esse alinhamento desconsiderará excessos na tipografia e se concentrará na linha de base.
+Podemos dividir então os botões de alinhamento entre posições internas e externas. Os botões dentro da área vermelha são para o alinhamento interno, isto é, os objetos ficarão dentro da referência. Os botões que estão fora da área vermelha são para alinhar fora da área de referência. Os botões no canto direito são para o alinhamento da linha base do texto, no sentido vertical ou horizontal. Como os próprios ícones ilustram, esse alinhamento desconsiderará excessos na tipografia e se concentrará na linha de base.
 
-![](<../.gitbook/assets/image (3).png>)
+A distribuição dos objetos selecionados não obedece um ponto de referência ("Relativo a:"), mas aos próprios objetos entre si. No exemplo abaixo temos o exemplo de três formas de distribuição. A primeira se dá pelo canto esquedo de cada objeto, a segunda pelo centro de cada objeto, e a última se dá por uma distância equânime entre cada objeto. Note que os objetos têm tamanhos diferentes.
 
+![](<../.gitbook/assets/image (6).png>)
+
+Uma confusão comum que se faz com esta ferramenta é esperar que ela também crie distâncias e alinhamentos, mas ela vai fazer apenas o que cada botão comenda. Por exemplo, abaixo temos os objetos (1) na imagem abaixo. Usa a distribuição uniforme vertical ou horizontal não fará com que eles fiquem alinhados ou distribuídos com um espaçamento (3), mas sim apenas distribuídos com uma distância uniforme entre os centros (2).
+
+
+
+![](<../.gitbook/assets/image (2).png>)
+
+Para espalhar os objetos com um distanciamento regular, precisamos ir até o campo Remoção de sobreposições. Os valores A e V designam as distâncias entre os objetos na horizontal e vertival. O botão ao lado aplicará as mudanças.
+
+![](<../.gitbook/assets/image (4).png>)
+
+Por fim, o campo de Rearranjo trata da sobreposição dos objetos.
+
+![](<../.gitbook/assets/image (1).png>)
