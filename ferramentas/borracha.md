@@ -26,7 +26,7 @@ A ferramenta [Pulverizador](pulverizador.md) também tem uma função de "borrac
 
 ![](<../.gitbook/assets/Peek 22-06-2022 14-07.gif>)
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 Vamos aos próximos campos da barra de controle. _Largura_ altera o tamanho da borracha. O botão seguinte habilitará os mecanismo de pressão do dispositivo de entrada. A _taxa de variação_ afetará a largura do traço gerado pelo dispositivo de entrada. _Pontas_ altera o arredondamento da borracha. _Tremulação_ cria um efeito de distorção sobre o traço da borracha. _Massa_ cria um efeito de inércia para simular a resistência da borracha sobre o papel.
 

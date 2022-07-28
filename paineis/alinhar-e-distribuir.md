@@ -30,12 +30,28 @@ Uma confusão comum que se faz com esta ferramenta é esperar que ela também cr
 
 
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (3).png>)
 
 Para espalhar os objetos com um distanciamento regular, precisamos ir até o campo Remoção de sobreposições. Os valores A e V designam as distâncias entre os objetos na horizontal e vertival. O botão ao lado aplicará as mudanças.
 
 ![](<../.gitbook/assets/image (4).png>)
 
-Por fim, o campo de Rearranjo trata da sobreposição dos objetos.
+Por fim, o campo de _Rearranjo_ trata de vários aspectos da organização dos objetos. \[<mark style="color:red;">Falta informação]</mark>&#x20;
+
+![](<../.gitbook/assets/image (1) (1).png>)
+
+### Grade
 
 ![](<../.gitbook/assets/image (1).png>)
+
+A distribuição em grade permite distribuir objetos de forma consistente em linhas e colunas. É possível definir um espaço fixo, largura e altura das linhas e colunas e alinhamento dos objetos. <mark style="color:red;">\[falta informação]</mark>
+
+![](<../.gitbook/assets/image (7).png>)
+
+### Círculo
+
+![](<../.gitbook/assets/image (2).png>)
+
+<mark style="color:red;">\[falta informação]</mark>
+
+![](<../.gitbook/assets/image (11).png>)
