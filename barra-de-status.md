@@ -6,6 +6,10 @@ A primeira informação disponível é o Preenchimento, Contorno e espessura do 
 
 ![](<.gitbook/assets/image (4) (1) (1) (1).png>)
 
+É possível clicar com o botão direito do mouse sobre estes campos para exibir um menu de contexto com algumas opções adicionais.
+
+![](<.gitbook/assets/image (1).png>)
+
 O próximo campo determina a transparência global do objeto, assim como disponível no painel de [Preenchimento e contorno](paineis/preenchimento-e-contorno.md).&#x20;
 
 ![](<.gitbook/assets/image (19).png>)

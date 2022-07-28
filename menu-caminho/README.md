@@ -1,10 +1,8 @@
-# Caminho
+# Menu Caminho
 
-Operações entre objetos são feitas principalmente pelo menu Caminho. Aqui estão diversas opções comuns&#x20;
+Operações entre objetos são feitas principalmente pelo menu Caminho.&#x20;
 
 ![](<../.gitbook/assets/image (51).png>)
-
-
 
 Note, antes de mais nada, que caminhos possuem uma "área" interna, a não ser que sejam apenas dois nós interligados por uma linha reta. Qualquer outra forma irá possuir uma área interna, ainda que os nós não estejam traçados entre si. Os objetos também não precisam estar com preenchimento ou contorno para realizar as operações de caminho.
 
