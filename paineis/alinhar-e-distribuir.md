@@ -34,7 +34,7 @@ Uma confusão comum que se faz com esta ferramenta é esperar que ela também cr
 
 Para espalhar os objetos com um distanciamento regular, precisamos ir até o campo Remoção de sobreposições. Os valores A e V designam as distâncias entre os objetos na horizontal e vertival. O botão ao lado aplicará as mudanças.
 
-![](<../.gitbook/assets/image (4) (3).png>)
+![](<../.gitbook/assets/image (4) (3) (1).png>)
 
 Por fim, o campo de _Rearranjo_ trata de vários aspectos da organização dos objetos. \[<mark style="color:red;">Falta informação]</mark>&#x20;
 
